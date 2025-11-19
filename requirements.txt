@@ -1,6 +1,11 @@
 pandas
 numpy
 seaborn
+matplotlib
+joblib
+scikit-learn
+xgboost
+ipykernel
 Flask
 
--e .
+# -e .

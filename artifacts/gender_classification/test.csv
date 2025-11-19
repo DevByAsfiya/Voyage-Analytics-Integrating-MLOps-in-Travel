@@ -1,0 +1,269 @@
+code,company,name,gender,age
+394,4You,Tom Floyd,none,48
+881,Wonka Company,Marlene Williams,female,42
+358,4You,Rickey Orouke,male,46
+367,4You,Deborah Adams,none,28
+259,4You,Helen Walton,none,49
+874,Wonka Company,Nancy Gentry,none,30
+1203,Umbrella LTDA,Troy Stenberg,none,53
+1221,Umbrella LTDA,Clifton Phillips,male,33
+900,Acme Factory,Darin Lopez,male,35
+710,Wonka Company,Cynthia Mekee,female,31
+783,Wonka Company,Kelly Ross,none,44
+477,Monsters CYA,Kevin Boyd,none,46
+76,4You,Dian Houde,none,65
+265,4You,Patricia Ives,female,30
+904,Acme Factory,Rebecca Beach,none,27
+677,Wonka Company,Bernard Park,male,48
+1032,Acme Factory,Linda Clark,none,55
+618,Monsters CYA,Juanita Deno,female,58
+591,Monsters CYA,Veronica Salgado,female,65
+715,Wonka Company,Martha Smith,female,27
+415,4You,Barbara Oliver,none,61
+306,4You,Darren Bennett,none,43
+912,Acme Factory,Nicole Gray,female,43
+78,4You,Craig Milstead,none,31
+1084,Acme Factory,Gregory Clay,male,59
+636,Monsters CYA,Joe Kelly,none,44
+771,Wonka Company,Leslie Viviani,none,53
+1039,Acme Factory,Laura Jaynes,female,44
+467,Monsters CYA,Justin Emmons,male,31
+486,Monsters CYA,Katelyn Ogorman,none,46
+1065,Acme Factory,Casey Joos,male,60
+970,Acme Factory,Juan Flood,male,35
+534,Monsters CYA,James Perez,male,21
+1120,Acme Factory,Josephine Underwood,female,56
+916,Acme Factory,Clifford Gonzalez,male,33
+660,Wonka Company,Harlan Hudson,none,28
+614,Monsters CYA,Anna Zurita,female,41
+722,Wonka Company,Joan Bottoni,none,34
+934,Acme Factory,Harvey Violette,male,25
+49,4You,Charles Wilenkin,male,55
+32,4You,Wesley Locker,male,44
+1112,Acme Factory,Troy Reader,none,40
+852,Wonka Company,Kaitlyn Wood,female,57
+670,Wonka Company,Patrick Obrien,none,32
+1132,Acme Factory,Shannon Venegas,female,38
+233,4You,Anna Broyles,female,63
+51,4You,Jenell Torbus,female,39
+583,Monsters CYA,Edmund Graham,none,63
+1023,Acme Factory,Robert Avila,male,54
+237,4You,Sylvia Etheridge,female,47
+552,Monsters CYA,Kevin Paul,none,45
+1335,Umbrella LTDA,Albert Garroutte,male,23
+643,Monsters CYA,David Lucas,male,50
+1298,Umbrella LTDA,Lori Barbour,female,32
+596,Monsters CYA,Dolores Huffman,female,55
+363,4You,Abby Small,female,25
+101,4You,James Banks,male,59
+888,Acme Factory,James Ayala,male,23
+788,Wonka Company,David Young,none,47
+221,4You,Ruth Nava,female,58
+208,4You,Gertrude Fowler,female,37
+575,Monsters CYA,Lucy Pagel,female,42
+1124,Acme Factory,Claude Hiatt,male,24
+493,Monsters CYA,Artie Ladner,female,48
+1251,Umbrella LTDA,Patrick Warfield,male,58
+63,4You,Robert Bell,male,22
+497,Monsters CYA,Christopher Cooper,male,60
+289,4You,Ethel Duffy,female,34
+1049,Acme Factory,Nannie Warren,female,53
+303,4You,Richard Gomez,male,56
+44,4You,David Brisco,male,21
+1271,Umbrella LTDA,Jessica Hoskins,female,61
+1282,Umbrella LTDA,John Martindale,male,30
+1145,Acme Factory,Leonor Blanchard,none,39
+239,4You,Julie Berman,female,51
+949,Acme Factory,Regan Edwards,female,54
+745,Wonka Company,Elizabeth Hewitt,female,53
+737,Wonka Company,Paula Fleming,none,32
+597,Monsters CYA,Raymond Varner,male,36
+1087,Acme Factory,Sona Paolucci,female,52
+1008,Acme Factory,Eric Mcmaster,none,43
+915,Acme Factory,Beau Butler,male,56
+163,4You,Derek Colburn,male,59
+240,4You,Foster King,none,33
+1313,Umbrella LTDA,Milton Thompson,male,61
+254,4You,Doris Weaver,none,44
+673,Wonka Company,Jennifer Robles,none,41
+906,Acme Factory,Mario Mendoza,male,41
+1230,Umbrella LTDA,Daniel Terry,male,32
+724,Wonka Company,Elizabeth Gastelum,female,34
+560,Monsters CYA,Pedro Lewis,male,32
+549,Monsters CYA,Margaret Orellana,female,24
+1119,Acme Factory,Brian Eckhardt,none,29
+872,Wonka Company,Anthony Hunt,none,31
+922,Acme Factory,Earl Collins,male,31
+716,Wonka Company,Charles Mullins,male,46
+428,4You,Marion Smith,none,42
+1276,Umbrella LTDA,David Mankey,male,49
+1316,Umbrella LTDA,Joseph Colvin,male,50
+620,Monsters CYA,Elizabeth Cohen,none,25
+755,Wonka Company,Kelly Lafave,none,58
+65,4You,Christina Law,none,51
+578,Monsters CYA,Naomi Bartz,female,22
+1018,Acme Factory,Elke Cavallaro,female,31
+342,4You,Tina Tomasek,female,22
+542,Monsters CYA,Dorothy Carter,none,64
+184,4You,Ronald Giunta,male,60
+796,Wonka Company,Nereida Legrand,none,63
+969,Acme Factory,Christopher Marquez,male,27
+58,4You,Ernie Walker,male,37
+432,4You,Linda Speight,female,52
+933,Acme Factory,John Baker,none,40
+1186,Umbrella LTDA,Wilson Kellam,male,56
+23,4You,Leslie Sandoval,male,35
+458,Monsters CYA,Donald Jansen,male,22
+210,4You,Jerry Vance,none,55
+115,4You,Mark Trogdon,none,48
+644,Monsters CYA,Rita Field,female,49
+43,4You,Louise James,female,24
+579,Monsters CYA,Ruby Lewis,female,31
+1311,Umbrella LTDA,Timothy Boyce,male,65
+777,Wonka Company,Peter Arias,none,42
+808,Wonka Company,Judy Williams,female,27
+247,4You,Judy Mcmann,none,25
+1165,Umbrella LTDA,Shonna Humpherys,female,61
+1167,Umbrella LTDA,Richard Kiani,male,21
+1144,Acme Factory,Norbert Covington,male,30
+843,Wonka Company,Michael Dabbs,male,29
+780,Wonka Company,Ashley Moon,female,40
+286,4You,Ellen Hanks,female,43
+296,4You,James Fouche,none,28
+781,Wonka Company,James Sanchez,male,30
+1277,Umbrella LTDA,Paul Shields,male,37
+81,4You,Angela Hill,female,21
+196,4You,Ora Nunez,female,59
+447,4You,Adam Hawkins,none,43
+339,4You,Stephen Midgett,male,33
+464,Monsters CYA,Zachary Richardson,male,60
+1190,Umbrella LTDA,Matthew Lewis,male,21
+1234,Umbrella LTDA,Kayla Henkes,female,62
+1290,Umbrella LTDA,William Sabir,male,32
+1301,Umbrella LTDA,Joseph Turner,male,57
+743,Wonka Company,Mckenzie Dougherty,female,60
+411,4You,Debbie Green,female,24
+192,4You,Jordan Williams,male,41
+553,Monsters CYA,Diego Boday,male,50
+984,Acme Factory,George Yanez,none,29
+573,Monsters CYA,Andrew Anderson,none,33
+1258,Umbrella LTDA,Daniel Williams,male,32
+522,Monsters CYA,Wilfred Briggs,male,55
+1297,Umbrella LTDA,Kathleen Griggs,female,49
+1022,Acme Factory,Earline Sherrod,none,22
+1047,Acme Factory,Jennifer Ferguson,none,55
+270,4You,Dustin Owens,male,51
+316,4You,Charlotte Johnson,female,64
+361,4You,Curtis Sexton,male,33
+1288,Umbrella LTDA,Victor Amick,none,22
+613,Monsters CYA,Isiah Enriquez,male,53
+621,Monsters CYA,Kenneth Vue,male,55
+752,Wonka Company,James Pizarro,male,64
+56,4You,Lindsey Pille,none,39
+889,Acme Factory,Leslie Smith,none,29
+584,Monsters CYA,Michael Jenkins,male,37
+903,Acme Factory,George Mohn,none,44
+1046,Acme Factory,John Millner,none,49
+566,Monsters CYA,Elma Depaz,female,29
+175,4You,Doris Marsh,female,48
+86,4You,Audrey Atwood,female,30
+123,4You,Ralph Alzugaray,male,60
+291,4You,Larry Dupree,male,36
+490,Monsters CYA,Frank Lopez,none,39
+526,Monsters CYA,Joy Sibley,none,62
+1217,Umbrella LTDA,Paul Canter,none,24
+1326,Umbrella LTDA,Phillip Sarni,male,60
+1156,Umbrella LTDA,Michael Mitchell,male,31
+298,4You,Gary Schwab,male,29
+297,4You,Lawrence Deibert,none,49
+1334,Umbrella LTDA,Tina Lancaster,female,60
+128,4You,Alexander Carter,male,58
+351,4You,Sara Ferguson,none,32
+244,4You,Opal Valles,female,45
+430,4You,Sharyl Simmons,female,36
+594,Monsters CYA,Jason Woods,male,30
+220,4You,Jennifer Avalos,none,47
+999,Acme Factory,Robert Scroggs,none,44
+174,4You,Christopher Brown,none,59
+1265,Umbrella LTDA,Lisa Strickland,female,50
+353,4You,Ricky Baker,male,57
+875,Wonka Company,John White,male,61
+1098,Acme Factory,Lyman Aguinaldo,male,61
+820,Wonka Company,Walter Johnson,male,44
+672,Wonka Company,Patricia Mcdonald,female,45
+811,Wonka Company,Therese Behne,female,59
+29,4You,Lisa Natera,female,35
+346,4You,Jeffrey Forester,male,57
+1169,Umbrella LTDA,Edward Jablonski,male,50
+478,Monsters CYA,Jerry Pickle,none,62
+1074,Acme Factory,Judy Dickie,female,34
+31,4You,Christopher Elliott,none,40
+352,4You,Alicia Watts,female,36
+864,Wonka Company,Helen Weidert,none,24
+309,4You,David Robinson,male,33
+1242,Umbrella LTDA,Theresa Bewick,none,48
+1068,Acme Factory,Melissa Morrison,female,61
+261,4You,Betty Dietrick,none,50
+70,4You,Charles Lutz,male,57
+1314,Umbrella LTDA,Janet Bufkin,female,43
+275,4You,Allen Strode,none,60
+953,Acme Factory,Jeffrey Sutton,male,55
+377,4You,Larry Faron,male,24
+312,4You,Ulysses Barker,male,40
+558,Monsters CYA,Peter Palmer,none,54
+756,Wonka Company,Connie Stokes,female,27
+705,Wonka Company,Shirley Smith,female,32
+1204,Umbrella LTDA,Andrew Gonzales,male,35
+429,4You,Brian Zimmermann,male,44
+588,Monsters CYA,Mary Parnell,none,53
+231,4You,Ronnie Stauffer,male,50
+48,4You,Clyde Ruiz,male,46
+1305,Umbrella LTDA,Sandra Cutlip,female,51
+113,4You,Richard Bouton,none,38
+155,4You,Matthew Sullivan,none,26
+839,Wonka Company,Ben Brummer,male,55
+799,Wonka Company,Edwina Zamora,female,56
+536,Monsters CYA,Alice Mora,none,38
+1000,Acme Factory,Adam Stanley,none,22
+651,Wonka Company,Brett Ahart,male,34
+589,Monsters CYA,Sherry Daigle,none,46
+1329,Umbrella LTDA,Alva Johnson,male,59
+1295,Umbrella LTDA,Lauren Reynolds,female,46
+481,Monsters CYA,Lyman Huizar,none,62
+198,4You,Kathryn Fegley,none,41
+731,Wonka Company,Linda Goodson,female,51
+630,Monsters CYA,Mary Depalma,female,47
+1135,Acme Factory,Jessica Sancho,female,38
+764,Wonka Company,Jacqueline Pratt,none,54
+107,4You,Lisa Martin,female,46
+1151,Umbrella LTDA,Kathy Le,female,29
+420,4You,April Williams,female,46
+1057,Acme Factory,Mark Harris,male,50
+1075,Acme Factory,Wesley Collins,none,23
+1211,Umbrella LTDA,Keely Richardson,female,31
+1273,Umbrella LTDA,Mary Cline,female,36
+218,4You,Marylee Hall,female,60
+277,4You,Fred Luescher,none,63
+1237,Umbrella LTDA,Kathryn Allen,female,55
+344,4You,Gary Hanson,male,33
+1083,Acme Factory,Christopher Mccormick,none,28
+909,Acme Factory,Dennis Shipley,none,23
+1171,Umbrella LTDA,Nichelle Kercher,female,38
+503,Monsters CYA,Mark Smith,male,30
+243,4You,Jason Griess,none,45
+1107,Acme Factory,Hildegard Gerlach,female,40
+471,Monsters CYA,Norma Brady,female,26
+168,4You,Lynn Quirk,female,53
+1006,Acme Factory,Gregory Dugas,none,33
+718,Wonka Company,Brooke Gilbert,female,57
+1272,Umbrella LTDA,Deborah Keiser,female,61
+374,4You,Kristopher Runyon,male,25
+711,Wonka Company,Esther Odonnell,female,32
+54,4You,Dorothea Delaney,female,21
+371,4You,Jenine Hobson,none,65
+744,Wonka Company,Carmen Delisi,male,26
+109,4You,Maria Averitt,female,24
+818,Wonka Company,Ralph Macdonald,male,60
+538,Monsters CYA,Marlene Worrell,female,55
+1286,Umbrella LTDA,Beverly Campbell,female,64
+714,Wonka Company,Amanda Linsky,none,40
