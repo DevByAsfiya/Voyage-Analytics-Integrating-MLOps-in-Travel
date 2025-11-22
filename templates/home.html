@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flight Price Predictor</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        label { display: block; margin-top: 15px; }
+        input, select { width: 300px; padding: 6px; margin-top: 5px; }
+        button { margin-top: 20px; padding: 10px 18px; background: #0077cc; color: white; border: none; }
+        .result { margin-top: 30px; font-size: 1.2em; font-weight: bold; color: #09634d;}
+    </style>
+</head>
+<body>
+    <h1>Flight Price Predictor</h1>
+    <form method="POST">
+        <label for="from">From:</label>
+        <select name="from" required>
+            <option value="Recife (PE)">Recife (PE)</option>
+            <option value="Florianopolis (SC)">Florianopolis (SC)</option>
+            <option value="Brasilia (DF)">Brasilia (DF)</option>
+            <option value="Aracaju (SE)">Aracaju (SE)</option>
+            <option value="Salvador (BH)">Salvador (BH)</option>
+            <option value="Campo Grande (MS)">Campo Grande (MS)</option>
+            <option value="Sao Paulo (SP)">Sao Paulo (SP)</option>
+            <option value="Natal (RN)">Natal (RN)</option>
+            <option value="Rio de Janeiro (RJ)">Rio de Janeiro (RJ)</option>
+        </select>
+
+        <label for="to">To:</label>
+        <select name="to" required>
+            <option value="Florianopolis (SC)">Florianopolis (SC)</option>
+            <option value="Recife (PE)">Recife (PE)</option>
+            <option value="Brasilia (DF)">Brasilia (DF)</option>
+            <option value="Salvador (BH)">Salvador (BH)</option>
+            <option value="Aracaju (SE)">Aracaju (SE)</option>
+            <option value="Campo Grande (MS)">Campo Grande (MS)</option>
+            <option value="Sao Paulo (SP)">Sao Paulo (SP)</option>
+            <option value="Natal (RN)">Natal (RN)</option>
+            <option value="Rio de Janeiro (RJ)">Rio de Janeiro (RJ)</option>
+        </select>
+
+        <label for="flightType">Flight Type:</label>
+        <select name="flightType" required>
+            <option value="firstClass">First Class</option>
+            <option value="economic">Economic</option>
+            <option value="premium">Premium</option>
+        </select>
+
+        <label for="time">Flight Time (hours):</label>
+        <input type="number" step="0.01" name="time" required>
+
+        <label for="distance">Distance (km):</label>
+        <input type="number" step="0.01" name="distance" required>
+
+        <label for="agency">Agency:</label>
+        <select name="agency" required>
+            <option value="FlyingDrops">FlyingDrops</option>
+            <option value="CloudFy">CloudFy</option>
+            <option value="Rainbow">Rainbow</option>
+        </select>
+
+        <label for="date">Date:</label>
+        <input type="date" name="date" required>
+
+        <button type="submit">Predict Price</button>
+    </form>
+
+    {% if results %}
+        <div class="result">
+            <p>Predicted Price: <span>{{ results }}</span></p>
+        </div>
+    {% endif %}
+</body>
+</html>
