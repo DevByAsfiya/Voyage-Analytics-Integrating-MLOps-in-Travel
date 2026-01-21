@@ -1,0 +1,75 @@
+{
+  "best_model": "LogisticRegression",
+  "best_f1_score": 0.42402384814366184,
+  "all_models": {
+    "LogisticRegression": {
+      "baseline": {
+        "cv_f1_mean": 0.43969074979622913,
+        "cv_f1_std": 0.007161285473890855,
+        "test_accuracy": 0.4626865671641791,
+        "test_f1_macro": 0.4406985013597875,
+        "test_roc_auc": 0.6283165854127706
+      },
+      "tuned": {
+        "cv_f1_mean": 0.4430913683778789,
+        "cv_f1_std": 0.012927407011466534,
+        "test_accuracy": 0.45149253731343286,
+        "test_f1_macro": 0.42402384814366184,
+        "test_roc_auc": 0.6324528690043585
+      },
+      "best_params": {
+        "C": 2.9753909473493882,
+        "penalty": "l2",
+        "solver": "liblinear"
+      },
+      "best_cv_score": 0.4430913683778789
+    },
+    "RandomForest": {
+      "baseline": {
+        "cv_f1_mean": 0.4051759102183839,
+        "cv_f1_std": 0.015382667828902715,
+        "test_accuracy": 0.4291044776119403,
+        "test_f1_macro": 0.4244847950622446,
+        "test_roc_auc": 0.55745383326825
+      },
+      "tuned": {
+        "cv_f1_mean": 0.43113084639481103,
+        "cv_f1_std": 0.012561830274505302,
+        "test_accuracy": 0.43283582089552236,
+        "test_f1_macro": 0.4091554579685328,
+        "test_roc_auc": 0.6267024697486533
+      },
+      "best_params": {
+        "max_depth": 10,
+        "max_features": "log2",
+        "min_samples_leaf": 1,
+        "min_samples_split": 5,
+        "n_estimators": 153
+      },
+      "best_cv_score": 0.43113084639481103
+    },
+    "GradientBoosting": {
+      "baseline": {
+        "cv_f1_mean": 0.4229007040106342,
+        "cv_f1_std": 0.018325497049452112,
+        "test_accuracy": 0.4216417910447761,
+        "test_f1_macro": 0.40421611705625954,
+        "test_roc_auc": 0.6203845297138141
+      },
+      "tuned": {
+        "cv_f1_mean": 0.3548453360170404,
+        "cv_f1_std": 0.028578958888697274,
+        "test_accuracy": 0.3246268656716418,
+        "test_f1_macro": 0.3032478006806652,
+        "test_roc_auc": 0.49312906199439405
+      },
+      "best_params": {
+        "learning_rate": 0.04717052037625178,
+        "max_depth": 3,
+        "min_samples_leaf": 12,
+        "n_estimators": 100
+      },
+      "best_cv_score": 0.3548453360170404
+    }
+  }
+}

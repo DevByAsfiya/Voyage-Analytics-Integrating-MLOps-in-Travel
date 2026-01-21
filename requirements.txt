@@ -1,0 +1,14 @@
+pandas
+numpy
+seaborn
+matplotlib
+joblib
+scikit-learn
+xgboost
+catboost
+ipykernel
+Flask
+dill
+streamlit
+
+# -e .
