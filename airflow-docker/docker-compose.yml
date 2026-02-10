@@ -19,16 +19,44 @@
 #       - ./dags:/opt/airflow/dags
 #       - ./logs:/opt/airflow/logs
 
+# version: '3'
+# services:
+#   airflow:
+#     image: apache/airflow:latest
+#     command: standalone
+#     ports:
+#       - "8081:8080"  # Mapping port 8081 on laptop to 8080 in container
+#     environment:
+#       - AIRFLOW__WEBSERVER__WEB_SERVER_HOST=0.0.0.0
+#       - AIRFLOW__WEBSERVER__WEB_SERVER_PORT=8080
+#     volumes:
+#       - ./dags:/opt/airflow/dags
+#       - ./logs:/opt/airflow/logs
+#       - ../src:/opt/airflow/src  #THIS LINE to fix modular imports
+#       - ../artifacts:/opt/airflow/artifacts
+
+
 version: '3'
 services:
   airflow:
-    image: apache/airflow:2.10.2-python3.11
+    # CHANGE 1: Use 'build' instead of 'image'
+    build:
+      context: ../            # Look 1 level up (Root folder) to find requirements.txt
+      dockerfile: airflow-docker/Dockerfile  # Point back down to where the Dockerfile is
+    
     command: standalone
+    
     ports:
-      - "8081:8080"  # Mapping port 8081 on laptop to 8080 in container
+      - "8081:8080"
+      
     environment:
       - AIRFLOW__WEBSERVER__WEB_SERVER_HOST=0.0.0.0
       - AIRFLOW__WEBSERVER__WEB_SERVER_PORT=8080
+      # OPTIONAL: Use LocalExecutor to run tasks in parallel
+      # - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
+      - ../src:/opt/airflow/src            # Correctly maps source code
+      - ../artifacts:/opt/airflow/artifacts # Correctly maps output folder

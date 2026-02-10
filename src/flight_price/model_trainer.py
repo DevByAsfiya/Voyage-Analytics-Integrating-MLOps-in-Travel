@@ -21,6 +21,7 @@ from src.utils import save_object, evaluate_models
 @dataclass
 class ModelTrainerConfig:
     trained_model_file_path = os.path.join("artifacts", "flight_price", "model.pkl")
+    # trained_model_file_path = os.path.join("/opt/airflow/artifacts", "flight_price", "model.pkl")
 
 class ModelTrainer:
     def __init__(self):
