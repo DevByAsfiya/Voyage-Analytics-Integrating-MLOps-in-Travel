@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: flight-price-prediction
+  labels:
+    app: flight-price-prediction
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: flight-price-prediction
+  template:
+    metadata:
+      labels:
+        app: flight-price-prediction
+    spec:
+      containers:
+      - name: flight-price-api
+        image: afia890/flight-price-prediction:1.0
+        ports:
+        - containerPort: 5000
+        env:
+        - name: MODEL_PATH
+          value: /app/artifacts/flight_price/model.pkl

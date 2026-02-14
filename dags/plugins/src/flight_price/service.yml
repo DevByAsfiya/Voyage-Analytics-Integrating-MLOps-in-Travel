@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: flight-price-prediction-service
+  labels:
+    app: flight-price-prediction
+spec:
+  type: ClusterIP          # internal-only; good for starting out
+  selector:
+    app: flight-price-prediction   # must match Pod labels
+  ports:
+    - name: http
+      port: 80             # port other Pods use to call the service
+      targetPort: 5000     # containerPort in your Deployment
