@@ -5,7 +5,7 @@ import sys
 import os
 
 # KEEP THIS AT THE TOP
-sys.path.append('/opt/airflow')
+# sys.path.append('/opt/airflow')
 
 # --- REMOVE HEAVY IMPORTS FROM HERE ---
 # from src.flight_price.data_ingestion import DataIngestion  <-- DELETE THIS
