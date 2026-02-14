@@ -15,7 +15,7 @@ sys.path.append('/opt/airflow')
 def run_ingestion(**kwargs):
     # --- MOVE IMPORT HERE ---
     from src.flight_price.data_ingestion import DataIngestion
-    
+
     ingestion = DataIngestion()
     train_path, test_path = ingestion.initiate_data_ingestion()
     kwargs['ti'].xcom_push(key='train_path', value=train_path)

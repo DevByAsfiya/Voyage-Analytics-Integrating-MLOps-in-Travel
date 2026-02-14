@@ -10,5 +10,5 @@ ipykernel
 Flask
 dill
 streamlit
-
+apache-airflow
 # -e .
