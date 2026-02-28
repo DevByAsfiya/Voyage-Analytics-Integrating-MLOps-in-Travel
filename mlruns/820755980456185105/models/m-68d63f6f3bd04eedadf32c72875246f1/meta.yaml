@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/user/Documents/Voyage-Analytics-Integrating-MLOps-in-Travel/mlruns/820755980456185105/models/m-68d63f6f3bd04eedadf32c72875246f1/artifacts
+creation_timestamp: 1771949270556
+experiment_id: '820755980456185105'
+last_updated_timestamp: 1771949300467
+model_id: m-68d63f6f3bd04eedadf32c72875246f1
+model_type: null
+name: best_flight_model
+source_run_id: d9336ffd066640988a03b87dfd8b4e9a
+status: 2
+status_message: null

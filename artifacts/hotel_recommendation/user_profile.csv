@@ -1,1311 +1,1311 @@
-userCode,trips_count,mean_price,mean_days,fav_city,fav_state,fav_price_bucket
-0,27,225.74,2.6,Salvador,BH,high
-1,2,193.36,1.0,Brasilia,DF,low
-2,36,210.05,2.7,Campo Grande,MS,high
-3,60,217.06,2.3,Natal,RN,high
-4,56,214.95,2.6,Rio de Janeiro,RJ,low
-5,13,209.59,2.1,Salvador,BH,high
-6,23,220.89,2.5,Sao Paulo,SP,low
-7,14,172.64,2.6,Campo Grande,MS,low
-8,52,224.98,2.6,Natal,RN,medium
-9,32,195.57,2.8,Campo Grande,MS,low
-10,17,215.83,2.6,Brasilia,BH,medium
-11,54,214.64,2.5,Florianopolis,RN,medium
-12,26,220.04,2.5,Rio de Janeiro,RJ,low
-13,50,211.43,2.7,Salvador,BH,high
-14,9,222.43,2.4,Salvador,BH,high
-15,47,198.36,2.4,Campo Grande,MS,low
-16,50,219.54,2.3,Rio de Janeiro,RJ,low
-17,8,218.15,2.5,Aracaju,DF,medium
-18,40,220.06,2.2,Florianopolis,SC,high
-19,31,230.55,2.8,Recife,PE,high
-20,25,219.42,2.5,Florianopolis,RJ,low
-21,53,191.39,2.5,Campo Grande,MS,low
-22,47,204.02,2.6,Sao Paulo,SP,low
-23,39,229.7,2.4,Florianopolis,SC,high
-24,11,201.88,3.2,Aracaju,SE,medium
-25,27,195.19,2.6,Campo Grande,MS,low
-26,27,208.03,2.4,Rio de Janeiro,BH,low
-27,23,213.73,2.6,Florianopolis,SC,low
-28,4,162.9,2.2,Sao Paulo,SP,low
-29,6,236.94,2.3,Florianopolis,SC,low
-30,4,197.71,3.0,Natal,RN,low
-31,12,166.85,2.5,Campo Grande,MS,low
-32,53,212.18,2.5,Florianopolis,SC,low
-34,39,224.93,2.3,Salvador,BH,high
-35,12,165.03,2.6,Campo Grande,MS,low
-36,28,192.04,2.8,Campo Grande,MS,low
-37,3,177.28,2.7,Aracaju,BH,low
-38,27,219.58,2.5,Campo Grande,BH,medium
-39,43,214.01,2.7,Florianopolis,RJ,low
-40,51,206.79,2.4,Rio de Janeiro,RJ,low
-41,56,210.24,2.5,Campo Grande,MS,low
-43,34,213.29,2.4,Rio de Janeiro,RJ,low
-44,31,189.2,2.6,Aracaju,MS,low
-45,28,180.31,2.4,Rio de Janeiro,RJ,low
-46,55,230.24,2.6,Florianopolis,SC,high
-47,41,209.18,2.6,Sao Paulo,SP,low
-48,14,195.02,2.6,Campo Grande,MS,low
-49,49,207.43,2.4,Sao Paulo,SP,low
-50,31,190.28,2.5,Campo Grande,MS,low
-51,2,190.99,3.0,Natal,RN,low
-52,52,207.51,2.4,Salvador,BH,low
-53,7,224.52,2.4,Natal,RN,medium
-54,29,225.67,2.7,Natal,RN,medium
-55,50,219.61,2.2,Rio de Janeiro,RJ,medium
-56,51,209.56,2.7,Florianopolis,RJ,low
-57,11,227.73,2.7,Florianopolis,RJ,low
-58,7,238.15,2.6,Brasilia,DF,medium
-59,8,239.28,2.2,Natal,PE,high
-60,53,185.04,2.0,Campo Grande,MS,low
-61,58,211.06,2.5,Brasilia,DF,low
-62,35,238.41,2.3,Natal,RN,high
-63,47,224.22,2.2,Salvador,BH,high
-64,58,208.44,2.6,Salvador,BH,low
-65,41,219.45,2.7,Florianopolis,SC,high
-66,19,218.1,2.3,Natal,RN,high
-67,45,223.07,2.6,Salvador,BH,high
-68,45,223.21,2.1,Sao Paulo,SP,medium
-69,32,207.18,2.5,Aracaju,RN,medium
-70,45,215.97,2.5,Natal,RN,medium
-71,10,227.37,2.1,Florianopolis,PE,low
-72,31,218.94,2.3,Brasilia,DF,medium
-73,39,205.12,2.4,Rio de Janeiro,RJ,low
-74,7,189.54,1.7,Campo Grande,MS,low
-75,40,204.59,2.6,Natal,RN,low
-76,6,206.49,2.3,Natal,BH,low
-77,26,208.39,2.7,Natal,RN,medium
-78,21,210.14,2.5,Rio de Janeiro,RJ,low
-79,24,243.54,2.5,Salvador,BH,high
-80,8,235.56,2.6,Florianopolis,SC,high
-81,27,219.07,2.5,Natal,RN,low
-82,53,217.13,2.5,Salvador,BH,low
-83,39,209.95,2.5,Florianopolis,SC,low
-84,27,221.15,2.4,Brasilia,DF,low
-85,2,288.12,4.0,Recife,BH,high
-86,4,240.79,2.8,Brasilia,BH,high
-87,3,158.82,3.0,Aracaju,SE,medium
-88,6,219.64,2.2,Florianopolis,SC,low
-89,12,233.44,2.8,Florianopolis,BH,high
-90,61,215.44,2.6,Campo Grande,BH,high
-91,23,204.75,2.8,Campo Grande,MS,low
-92,8,203.16,2.5,Rio de Janeiro,RJ,low
-93,65,209.69,2.4,Rio de Janeiro,RJ,low
-94,61,216.24,2.7,Florianopolis,SC,low
-95,37,208.02,2.8,Rio de Janeiro,RJ,low
-96,30,216.42,2.5,Natal,RN,medium
-97,39,192.3,2.7,Campo Grande,MS,low
-98,7,212.81,1.1,Rio de Janeiro,RJ,low
-99,7,194.76,2.6,Campo Grande,MS,low
-100,36,232.47,2.4,Salvador,BH,high
-101,18,214.24,2.4,Salvador,BH,low
-102,7,259.86,1.9,Recife,PE,high
-103,26,190.81,2.4,Campo Grande,MS,low
-104,44,212.92,2.2,Aracaju,RJ,low
-105,68,206.37,2.4,Campo Grande,MS,low
-106,54,219.15,2.6,Rio de Janeiro,RJ,low
-107,43,207.61,2.7,Campo Grande,MS,low
-108,14,172.46,2.5,Campo Grande,BH,low
-109,50,216.84,2.4,Aracaju,RN,medium
-110,37,221.72,2.1,Brasilia,BH,high
-111,60,228.77,2.6,Recife,PE,high
-112,62,219.19,2.7,Salvador,BH,medium
-113,44,235.87,2.6,Florianopolis,SC,high
-114,11,212.97,2.5,Florianopolis,SC,high
-115,63,222.02,2.7,Natal,RN,medium
-116,33,214.13,2.8,Sao Paulo,SP,low
-117,39,205.73,2.7,Campo Grande,MS,low
-118,32,207.13,2.5,Rio de Janeiro,RJ,low
-119,55,233.46,2.1,Natal,RN,medium
-120,54,214.12,2.7,Florianopolis,SC,low
-121,15,221.89,2.7,Rio de Janeiro,RJ,low
-122,21,200.11,2.5,Rio de Janeiro,RJ,low
-123,10,206.79,2.3,Rio de Janeiro,RJ,low
-124,22,221.66,2.9,Aracaju,BH,medium
-125,10,231.28,2.2,Natal,RN,medium
-126,64,215.1,2.7,Rio de Janeiro,RJ,low
-127,37,219.52,2.6,Rio de Janeiro,RJ,high
-129,53,206.48,2.6,Salvador,BH,low
-130,2,255.52,2.5,Brasilia,BH,medium
-131,29,214.26,2.9,Aracaju,RJ,medium
-132,20,196.55,2.4,Sao Paulo,SP,low
-133,27,225.11,2.6,Rio de Janeiro,RJ,high
-134,41,208.2,2.4,Rio de Janeiro,RJ,low
-135,28,212.0,2.4,Florianopolis,RJ,low
-136,5,174.72,2.2,Rio de Janeiro,RJ,low
-137,37,218.62,2.4,Brasilia,DF,medium
-138,11,232.54,2.5,Florianopolis,SC,medium
-139,31,231.35,2.5,Florianopolis,BH,high
-140,36,206.19,2.2,Natal,RN,low
-141,11,222.7,2.4,Rio de Janeiro,RJ,low
-142,12,193.4,2.2,Campo Grande,MS,low
-143,15,205.61,2.3,Florianopolis,SC,low
-144,9,185.02,3.0,Campo Grande,MS,low
-145,47,223.78,2.5,Brasilia,DF,low
-146,57,231.77,2.5,Florianopolis,SC,high
-147,9,184.38,1.7,Rio de Janeiro,RJ,low
-148,47,209.45,2.7,Rio de Janeiro,RJ,low
-149,59,208.44,2.6,Sao Paulo,SP,low
-150,7,201.34,2.7,Natal,RN,low
-151,22,199.52,2.6,Sao Paulo,SP,low
-152,51,187.78,2.5,Sao Paulo,SP,low
-153,28,238.52,2.6,Salvador,BH,high
-154,8,223.2,2.5,Sao Paulo,SP,low
-155,55,213.29,2.7,Florianopolis,SC,low
-156,40,211.32,2.7,Natal,RN,medium
-157,51,222.38,2.3,Florianopolis,BH,high
-158,64,220.88,2.6,Florianopolis,SC,high
-159,9,169.57,2.2,Campo Grande,MS,low
-160,13,189.92,2.5,Rio de Janeiro,RJ,low
-161,44,221.08,2.4,Salvador,BH,high
-162,34,201.93,2.6,Rio de Janeiro,RJ,low
-163,22,232.78,2.7,Florianopolis,BH,high
-164,10,175.81,2.6,Campo Grande,MS,low
-165,9,248.95,2.0,Natal,PE,high
-166,46,209.52,2.5,Sao Paulo,SP,low
-167,5,282.06,2.2,Florianopolis,SC,high
-168,58,210.2,2.6,Rio de Janeiro,RJ,low
-169,33,200.72,2.5,Sao Paulo,SP,low
-170,33,213.15,2.7,Sao Paulo,SP,low
-171,26,199.98,2.5,Campo Grande,BH,low
-172,3,179.74,2.0,Campo Grande,MS,low
-173,23,232.96,2.3,Natal,RN,medium
-174,61,211.92,2.4,Sao Paulo,SP,low
-175,41,217.35,2.6,Natal,RN,low
-176,47,222.19,2.4,Salvador,BH,high
-177,42,220.93,2.7,Natal,RN,medium
-178,54,209.4,2.6,Rio de Janeiro,RJ,low
-179,25,217.99,2.3,Florianopolis,SC,low
-180,41,194.1,2.7,Campo Grande,MS,low
-181,22,172.47,2.4,Rio de Janeiro,RJ,low
-182,41,218.5,2.7,Recife,PE,medium
-183,54,201.77,2.3,Campo Grande,MS,low
-184,12,176.27,1.8,Campo Grande,MS,low
-185,34,206.78,2.6,Salvador,BH,high
-186,53,208.95,2.6,Campo Grande,BH,low
-187,47,209.01,2.3,Rio de Janeiro,RJ,low
-188,36,208.39,2.6,Campo Grande,MS,low
-189,50,222.88,2.5,Rio de Janeiro,RJ,high
-190,9,199.62,3.0,Sao Paulo,SP,low
-191,48,220.64,2.4,Rio de Janeiro,RJ,high
-192,13,187.95,2.7,Aracaju,SE,medium
-193,57,215.85,2.5,Florianopolis,SC,low
-194,54,232.14,2.6,Florianopolis,SC,high
-195,58,203.89,2.2,Campo Grande,MS,low
-196,29,213.18,2.4,Florianopolis,SC,high
-197,24,195.26,2.7,Campo Grande,MS,low
-198,3,267.84,2.3,Brasilia,DF,medium
-199,21,219.3,2.9,Rio de Janeiro,BH,low
-200,3,198.46,3.0,Rio de Janeiro,RJ,low
-201,5,266.07,3.0,Salvador,BH,high
-202,10,243.05,2.8,Aracaju,RN,medium
-203,43,222.87,2.3,Recife,PE,high
-204,35,220.01,2.5,Natal,RN,high
-205,17,221.27,2.5,Recife,PE,high
-206,43,200.24,2.7,Sao Paulo,SP,low
-207,35,209.89,2.2,Campo Grande,MS,low
-208,43,221.89,2.5,Florianopolis,SC,high
-209,32,224.95,2.7,Natal,RN,high
-210,46,195.13,2.5,Campo Grande,MS,low
-211,16,199.02,2.6,Natal,RN,low
-212,52,217.97,2.6,Aracaju,SE,medium
-213,27,219.41,2.6,Aracaju,PE,high
-214,7,252.12,2.3,Florianopolis,PE,high
-215,13,173.16,2.8,Sao Paulo,SP,low
-216,45,211.18,2.5,Natal,RJ,low
-217,13,191.42,2.8,Rio de Janeiro,RJ,low
-218,24,217.23,2.6,Natal,RN,low
-219,54,199.74,2.6,Natal,RN,low
-220,67,220.6,2.4,Rio de Janeiro,RJ,high
-221,8,185.7,2.1,Brasilia,DF,low
-222,52,207.73,2.4,Natal,RN,low
-223,52,189.2,2.6,Campo Grande,MS,low
-224,36,187.91,2.3,Campo Grande,MS,low
-225,2,312.92,2.5,Florianopolis,PE,high
-226,24,187.1,2.0,Rio de Janeiro,RJ,low
-227,13,215.14,3.2,Sao Paulo,SP,low
-228,46,202.78,2.3,Campo Grande,BH,low
-229,38,206.82,2.6,Campo Grande,MS,low
-230,43,224.42,2.7,Rio de Janeiro,RJ,high
-231,29,214.44,2.7,Natal,RJ,low
-232,11,225.45,2.6,Salvador,BH,high
-233,23,183.8,2.8,Sao Paulo,SP,low
-234,52,219.37,2.5,Florianopolis,SC,high
-235,1,165.99,4.0,Rio de Janeiro,RJ,low
-236,45,206.42,2.6,Campo Grande,MS,high
-237,59,197.82,2.6,Campo Grande,MS,low
-238,16,201.11,2.2,Aracaju,SE,medium
-239,45,186.06,2.4,Campo Grande,MS,low
-240,22,203.93,2.7,Rio de Janeiro,RJ,low
-241,64,212.81,2.2,Florianopolis,SC,low
-242,62,225.21,2.8,Florianopolis,SC,high
-243,50,213.85,2.6,Natal,RN,low
-244,36,212.36,2.7,Florianopolis,SC,low
-245,49,220.77,2.7,Sao Paulo,SP,low
-246,30,217.63,2.7,Florianopolis,RJ,high
-247,46,218.85,2.5,Sao Paulo,SP,low
-248,40,211.61,2.3,Rio de Janeiro,RJ,low
-249,15,181.74,2.3,Campo Grande,MS,low
-250,43,212.4,2.6,Salvador,BH,high
-251,69,212.8,2.4,Florianopolis,SC,high
-252,11,257.16,3.3,Salvador,BH,high
-253,20,238.18,2.5,Salvador,BH,medium
-254,51,215.43,2.6,Natal,RJ,medium
-255,7,157.56,2.3,Campo Grande,MS,low
-256,23,228.07,2.3,Salvador,BH,high
-257,7,193.97,3.0,Aracaju,SE,low
-258,45,208.64,2.4,Campo Grande,MS,high
-259,25,192.76,2.3,Rio de Janeiro,RJ,low
-260,41,203.19,2.3,Campo Grande,MS,medium
-261,36,238.78,2.4,Salvador,BH,medium
-262,37,234.12,2.5,Florianopolis,SC,high
-263,28,231.41,2.4,Recife,PE,high
-264,62,206.95,2.5,Campo Grande,MS,medium
-265,27,204.3,2.5,Sao Paulo,SP,medium
-266,45,213.09,2.5,Natal,RN,medium
-267,35,218.26,2.7,Natal,RN,medium
-268,57,223.79,2.7,Florianopolis,SC,high
-269,24,238.28,2.5,Natal,RN,medium
-270,1,165.99,1.0,Rio de Janeiro,RJ,low
-271,55,217.46,2.6,Recife,BH,low
-272,16,188.36,2.8,Aracaju,BH,low
-273,42,212.67,2.5,Aracaju,RJ,medium
-274,62,201.25,2.6,Campo Grande,MS,low
-275,20,215.93,2.4,Florianopolis,RJ,low
-276,44,216.92,2.2,Natal,RN,low
-277,8,192.01,2.0,Campo Grande,MS,low
-278,17,207.49,2.7,Florianopolis,SC,low
-279,29,210.71,2.8,Florianopolis,RN,low
-280,29,217.62,2.6,Aracaju,RN,medium
-281,58,220.29,2.4,Brasilia,DF,high
-282,22,203.67,2.3,Florianopolis,SC,low
-283,19,238.38,2.6,Florianopolis,BH,high
-284,51,193.28,2.6,Campo Grande,BH,low
-285,26,208.03,2.6,Campo Grande,MS,low
-286,6,206.69,2.7,Sao Paulo,SP,medium
-287,58,208.02,2.3,Salvador,BH,high
-288,35,223.47,2.5,Sao Paulo,SP,high
-289,39,209.41,2.2,Aracaju,SE,medium
-290,46,204.37,2.4,Natal,RN,low
-291,15,220.14,2.5,Florianopolis,SC,high
-292,29,200.97,2.8,Campo Grande,BH,low
-293,25,225.84,2.4,Sao Paulo,SP,high
-294,19,227.68,2.4,Natal,RN,high
-295,24,195.54,2.8,Campo Grande,MS,low
-296,46,209.35,2.5,Florianopolis,SC,low
-297,30,186.23,2.4,Campo Grande,MS,low
-299,21,198.65,2.7,Natal,RN,low
-300,49,206.86,2.6,Campo Grande,MS,low
-301,40,209.87,2.3,Sao Paulo,SP,medium
-302,10,195.24,2.8,Campo Grande,BH,low
-303,5,252.04,2.6,Natal,BH,medium
-304,41,239.75,2.3,Florianopolis,SC,high
-305,10,228.73,2.3,Florianopolis,SC,low
-306,24,161.62,2.6,Campo Grande,MS,low
-307,50,235.38,2.6,Natal,RN,medium
-308,48,227.24,2.6,Florianopolis,RN,high
-309,21,203.3,2.7,Aracaju,RN,medium
-310,15,227.94,2.8,Natal,RN,medium
-311,2,214.7,1.5,Rio de Janeiro,BH,low
-312,51,204.5,2.4,Rio de Janeiro,RJ,low
-313,10,204.16,2.8,Salvador,BH,low
-314,53,222.25,2.4,Recife,PE,high
-316,14,182.13,2.3,Sao Paulo,SP,low
-317,37,229.79,2.3,Florianopolis,SC,high
-318,19,201.78,2.8,Aracaju,SC,low
-319,36,205.0,2.2,Campo Grande,MS,low
-320,13,181.38,2.5,Campo Grande,MS,low
-321,45,209.2,2.4,Campo Grande,MS,low
-322,67,216.92,2.7,Florianopolis,SC,high
-323,51,232.57,2.3,Florianopolis,SC,high
-324,12,205.32,2.9,Aracaju,SE,medium
-325,41,208.31,2.6,Salvador,BH,high
-326,55,208.89,2.5,Florianopolis,SC,low
-327,19,180.09,2.3,Campo Grande,MS,low
-328,51,228.11,2.8,Florianopolis,SC,high
-329,60,213.58,2.3,Rio de Janeiro,RJ,low
-330,43,214.14,2.5,Salvador,BH,medium
-331,40,203.91,2.8,Campo Grande,MS,low
-332,13,240.56,2.4,Florianopolis,SC,high
-333,5,216.23,1.8,Natal,RJ,low
-334,4,150.5,2.8,Sao Paulo,SP,low
-335,28,182.03,3.0,Sao Paulo,SP,low
-336,25,211.49,2.6,Florianopolis,SC,high
-337,59,194.18,2.4,Campo Grande,MS,low
-338,55,197.26,2.8,Sao Paulo,SP,low
-339,27,211.08,2.7,Rio de Janeiro,RJ,low
-340,7,180.69,2.3,Natal,RJ,low
-341,57,232.14,2.4,Florianopolis,SC,high
-342,45,214.95,2.6,Salvador,BH,high
-343,43,194.53,2.6,Sao Paulo,SP,low
-344,26,207.32,2.7,Rio de Janeiro,RJ,low
-345,30,201.61,2.3,Campo Grande,MS,low
-346,34,207.46,2.8,Natal,RN,low
-347,5,224.88,2.4,Florianopolis,BH,low
-348,45,216.52,2.6,Campo Grande,BH,high
-349,51,209.62,2.5,Campo Grande,MS,low
-350,9,228.15,2.2,Rio de Janeiro,RJ,low
-351,30,199.47,2.8,Campo Grande,MS,low
-352,60,200.92,2.4,Sao Paulo,SP,low
-353,16,240.48,2.2,Brasilia,DF,medium
-354,36,211.76,2.5,Salvador,BH,high
-355,50,191.1,2.6,Campo Grande,MS,low
-356,35,219.54,2.4,Aracaju,SE,medium
-357,55,217.39,2.7,Florianopolis,SC,low
-358,8,244.51,2.5,Recife,PE,high
-359,25,256.28,2.8,Recife,PE,medium
-360,11,216.32,2.7,Salvador,BH,high
-362,59,218.96,2.5,Brasilia,DF,medium
-363,30,224.06,2.3,Florianopolis,SC,high
-365,10,218.72,2.5,Recife,PE,high
-366,17,193.58,2.0,Campo Grande,MS,low
-367,8,167.4,2.1,Campo Grande,MS,low
-368,54,214.82,2.5,Salvador,BH,high
-369,48,208.9,2.2,Salvador,BH,high
-370,25,208.79,2.8,Florianopolis,SC,low
-371,57,213.89,2.7,Natal,BH,medium
-372,57,200.53,2.4,Campo Grande,BH,low
-373,8,258.75,1.9,Natal,RN,high
-374,2,253.14,3.5,Natal,BH,medium
-375,24,214.07,2.8,Brasilia,DF,low
-376,14,205.58,3.0,Sao Paulo,SP,low
-377,2,312.83,3.0,Recife,PE,high
-378,36,209.0,2.6,Natal,RN,low
-379,26,218.4,2.4,Aracaju,RJ,low
-380,7,149.87,2.3,Sao Paulo,SP,low
-381,58,230.04,2.2,Florianopolis,PE,high
-383,42,224.37,2.5,Rio de Janeiro,BH,high
-384,57,207.53,2.6,Rio de Janeiro,RJ,low
-386,14,212.08,2.6,Salvador,BH,high
-387,55,239.1,2.7,Brasilia,DF,high
-388,42,216.0,2.4,Rio de Janeiro,RJ,low
-389,67,221.62,2.5,Florianopolis,SC,high
-390,54,218.54,2.8,Natal,RN,high
-391,31,221.26,2.9,Florianopolis,BH,high
-392,16,228.24,2.4,Salvador,BH,medium
-393,12,178.2,2.1,Rio de Janeiro,RJ,low
-394,7,263.64,2.1,Aracaju,SC,medium
-395,26,216.69,2.5,Florianopolis,SC,high
-396,40,207.46,2.5,Sao Paulo,SP,low
-397,8,182.52,2.8,Sao Paulo,SP,low
-398,27,209.49,2.2,Salvador,BH,low
-399,2,288.12,3.5,Recife,BH,high
-400,44,190.3,2.5,Rio de Janeiro,RJ,low
-401,17,236.4,2.6,Salvador,BH,high
-402,43,208.95,2.4,Rio de Janeiro,RJ,low
-403,18,214.26,2.2,Salvador,BH,high
-404,10,218.37,2.3,Aracaju,RJ,medium
-405,3,312.89,3.3,Recife,PE,high
-406,1,263.41,2.0,Salvador,BH,high
-407,54,221.44,2.6,Salvador,BH,high
-408,33,210.17,2.6,Natal,RN,low
-409,29,212.99,2.7,Florianopolis,SC,high
-410,22,211.1,2.4,Salvador,BH,high
-411,18,192.53,2.6,Campo Grande,BH,low
-412,61,207.89,2.3,Rio de Janeiro,RJ,low
-413,4,246.28,3.2,Natal,BH,high
-414,23,196.53,2.7,Aracaju,SE,low
-415,48,221.88,2.7,Florianopolis,SC,medium
-416,43,209.57,2.1,Campo Grande,MS,low
-417,21,203.74,2.2,Sao Paulo,SP,low
-418,18,184.65,2.6,Campo Grande,MS,low
-419,38,229.37,2.5,Florianopolis,SC,high
-420,8,273.4,2.5,Recife,PE,high
-421,2,190.99,3.0,Natal,RN,low
-422,58,205.78,2.3,Sao Paulo,SP,low
-423,26,192.1,3.0,Campo Grande,MS,low
-424,11,218.78,3.2,Salvador,BH,high
-425,43,189.45,2.4,Rio de Janeiro,RJ,low
-426,19,207.79,2.2,Rio de Janeiro,BH,low
-427,3,185.21,2.7,Brasilia,DF,medium
-428,34,224.22,2.4,Rio de Janeiro,RJ,low
-429,22,183.94,2.5,Campo Grande,MS,low
-430,55,219.83,2.6,Salvador,BH,high
-431,37,245.55,2.3,Florianopolis,SC,high
-432,53,200.32,2.5,Campo Grande,MS,low
-433,27,238.68,2.6,Florianopolis,SC,high
-434,55,220.71,2.5,Sao Paulo,SP,medium
-435,23,195.69,2.5,Rio de Janeiro,RJ,low
-436,73,206.09,2.6,Campo Grande,MS,low
-437,20,220.72,2.5,Sao Paulo,SP,low
-438,12,206.83,2.8,Natal,RN,low
-439,23,222.46,2.6,Rio de Janeiro,RJ,low
-440,43,198.76,2.7,Rio de Janeiro,RJ,low
-441,46,216.77,2.3,Florianopolis,SC,high
-442,48,218.89,2.8,Florianopolis,BH,high
-443,6,264.86,1.7,Florianopolis,SC,high
-444,5,223.61,2.2,Salvador,BH,high
-445,58,209.24,2.5,Sao Paulo,SP,low
-446,3,296.42,2.3,Florianopolis,BH,high
-447,52,190.59,2.6,Campo Grande,MS,low
-448,59,217.3,2.5,Florianopolis,RN,high
-449,29,232.35,2.6,Florianopolis,SC,high
-450,39,203.21,2.3,Campo Grande,MS,low
-451,23,210.98,3.1,Campo Grande,MS,medium
-452,36,212.69,2.6,Sao Paulo,SP,low
-453,45,237.07,2.7,Natal,BH,medium
-454,65,227.6,2.5,Natal,RN,medium
-455,51,245.0,2.5,Brasilia,DF,high
-456,34,230.52,2.4,Recife,PE,medium
-457,15,258.23,3.1,Recife,PE,high
-458,31,235.13,2.5,Aracaju,SE,medium
-459,34,235.28,2.2,Natal,BH,medium
-460,32,248.41,2.5,Recife,PE,high
-461,51,230.76,2.3,Natal,RN,medium
-462,49,229.4,2.7,Rio de Janeiro,RJ,medium
-464,16,250.0,2.4,Natal,RN,medium
-465,27,238.93,2.0,Brasilia,DF,medium
-466,13,237.8,2.5,Salvador,BH,medium
-467,3,240.57,1.3,Natal,PE,low
-468,3,264.01,3.3,Florianopolis,SC,high
-469,27,233.06,2.6,Aracaju,RJ,medium
-470,17,228.44,2.5,Salvador,BH,high
-471,10,217.17,2.3,Brasilia,DF,medium
-472,25,211.62,2.1,Sao Paulo,SP,low
-473,1,208.04,1.0,Aracaju,SE,medium
-474,21,233.46,2.4,Sao Paulo,SP,high
-475,14,237.48,2.1,Florianopolis,BH,high
-476,5,198.43,1.8,Rio de Janeiro,RJ,low
-477,36,240.47,2.7,Recife,PE,high
-478,54,223.13,2.5,Sao Paulo,SP,medium
-479,37,239.23,2.4,Florianopolis,SC,medium
-480,28,228.5,2.9,Sao Paulo,SP,medium
-481,14,247.64,2.3,Aracaju,SE,medium
-482,49,240.53,2.5,Florianopolis,SC,high
-483,60,238.97,2.2,Natal,RN,medium
-484,26,231.96,2.4,Aracaju,SE,medium
-485,53,239.75,2.7,Aracaju,SC,medium
-486,50,231.62,2.2,Sao Paulo,SP,high
-487,45,236.16,2.6,Recife,PE,high
-488,30,205.71,2.3,Sao Paulo,SP,low
-489,26,265.97,2.5,Recife,PE,high
-490,43,231.84,2.5,Recife,PE,medium
-491,50,242.04,2.5,Recife,PE,medium
-492,45,250.37,2.5,Florianopolis,SC,high
-493,42,241.2,2.6,Recife,PE,high
-494,3,234.43,2.3,Brasilia,DF,medium
-495,13,214.17,2.7,Sao Paulo,SP,low
-496,13,257.25,2.3,Natal,PE,high
-497,50,245.2,2.1,Florianopolis,SC,high
-498,30,227.61,2.6,Sao Paulo,SP,high
-499,28,232.57,2.3,Aracaju,SE,medium
-500,55,239.59,2.5,Brasilia,DF,medium
-501,30,230.75,2.6,Sao Paulo,SP,high
-502,56,235.92,2.3,Rio de Janeiro,RJ,high
-503,25,247.18,2.8,Aracaju,SE,medium
-504,55,238.36,2.4,Recife,PE,high
-505,52,242.32,2.8,Recife,PE,high
-506,10,240.72,2.0,Recife,PE,high
-507,40,229.9,2.5,Sao Paulo,SP,high
-508,9,235.13,3.0,Rio de Janeiro,RJ,high
-509,40,228.17,2.7,Natal,RN,medium
-510,25,249.9,2.1,Florianopolis,SC,high
-511,38,244.05,2.7,Natal,RN,medium
-512,57,226.13,2.2,Aracaju,SE,medium
-513,22,242.2,2.6,Florianopolis,SC,high
-514,50,244.32,2.4,Florianopolis,SC,high
-515,32,234.79,2.5,Brasilia,DF,medium
-516,56,226.85,2.5,Salvador,BH,high
-517,46,235.98,2.5,Recife,PE,high
-518,21,221.65,2.5,Rio de Janeiro,RJ,low
-519,24,255.89,1.9,Salvador,BH,high
-520,2,225.96,1.5,Recife,PE,low
-521,49,234.9,2.5,Brasilia,DF,high
-522,27,252.24,2.8,Recife,PE,high
-523,27,251.85,2.8,Recife,PE,high
-524,11,231.07,3.4,Brasilia,DF,medium
-525,41,242.23,2.4,Florianopolis,PE,high
-526,9,230.21,2.0,Salvador,BH,high
-528,7,224.29,2.3,Brasilia,BH,medium
-529,27,199.53,2.4,Rio de Janeiro,RJ,low
-530,1,312.83,3.0,Recife,PE,high
-531,3,256.16,3.3,Aracaju,DF,medium
-532,34,235.75,2.6,Salvador,BH,medium
-533,40,231.47,2.7,Salvador,BH,high
-534,39,225.0,2.6,Brasilia,DF,medium
-535,26,231.62,3.0,Salvador,BH,high
-536,10,247.39,3.0,Brasilia,BH,high
-537,26,238.18,2.3,Brasilia,DF,medium
-538,14,234.32,2.4,Recife,PE,high
-539,37,235.68,2.9,Salvador,BH,high
-540,49,224.72,2.5,Aracaju,SE,medium
-541,44,245.93,2.6,Natal,RN,medium
-542,32,229.03,2.2,Sao Paulo,SP,medium
-543,28,236.83,2.5,Brasilia,DF,medium
-544,60,252.38,2.6,Brasilia,DF,medium
-545,59,230.55,2.8,Aracaju,SE,medium
-546,27,221.54,2.1,Natal,RN,medium
-547,4,270.33,2.5,Recife,PE,medium
-548,16,235.85,3.2,Brasilia,DF,medium
-549,42,233.82,2.1,Recife,PE,high
-550,21,226.86,2.8,Natal,RN,medium
-551,13,233.21,3.2,Recife,PE,high
-552,62,252.54,2.5,Recife,PE,high
-553,55,248.33,2.5,Florianopolis,SC,medium
-554,39,243.39,2.6,Recife,PE,high
-555,11,233.2,2.9,Natal,BH,medium
-556,11,249.96,2.5,Salvador,BH,high
-557,40,228.88,2.6,Sao Paulo,SP,high
-558,30,236.46,2.5,Aracaju,SE,medium
-559,26,233.44,2.2,Brasilia,DF,medium
-560,26,235.17,2.7,Natal,RN,medium
-561,34,243.81,2.4,Brasilia,DF,medium
-562,27,220.99,2.3,Brasilia,DF,medium
-563,21,246.92,2.4,Brasilia,DF,medium
-564,12,218.77,2.2,Natal,RN,medium
-565,32,223.1,2.4,Rio de Janeiro,RJ,medium
-566,19,256.74,2.7,Recife,PE,high
-567,27,221.08,2.7,Rio de Janeiro,RJ,low
-568,29,244.63,2.6,Recife,PE,high
-569,15,211.43,2.6,Sao Paulo,SP,low
-570,29,239.6,2.7,Florianopolis,PE,high
-571,56,238.26,2.3,Aracaju,SE,medium
-572,46,243.63,2.3,Florianopolis,SC,high
-573,65,239.08,2.5,Aracaju,SE,medium
-574,37,230.79,2.5,Brasilia,DF,medium
-575,67,239.91,2.3,Brasilia,DF,medium
-576,28,234.66,2.6,Brasilia,DF,medium
-577,22,227.6,2.5,Aracaju,SE,medium
-578,45,233.74,2.6,Florianopolis,RJ,high
-579,5,228.13,2.8,Brasilia,DF,medium
-580,50,235.64,2.3,Aracaju,SE,medium
-581,36,237.47,2.3,Recife,BH,medium
-582,48,230.99,2.3,Rio de Janeiro,RJ,low
-583,46,222.63,2.4,Sao Paulo,SP,medium
-584,58,242.82,2.5,Recife,PE,medium
-585,15,251.45,2.4,Florianopolis,SC,high
-586,32,232.42,2.9,Aracaju,SE,high
-587,62,231.89,2.6,Natal,RJ,medium
-589,17,235.67,2.0,Sao Paulo,SP,high
-590,3,221.97,1.0,Salvador,BH,high
-591,16,233.94,2.1,Natal,RN,medium
-592,1,313.02,2.0,Florianopolis,SC,high
-593,10,232.26,1.8,Salvador,BH,high
-594,15,223.46,2.5,Rio de Janeiro,RJ,low
-596,26,245.61,2.3,Aracaju,PE,high
-597,9,222.02,2.8,Natal,RN,medium
-598,10,244.64,2.8,Salvador,BH,high
-599,60,234.78,2.5,Brasilia,DF,medium
-600,17,236.68,2.3,Aracaju,SE,medium
-601,67,233.8,2.4,Sao Paulo,SP,high
-602,8,262.48,2.9,Brasilia,BH,high
-603,39,227.8,2.6,Rio de Janeiro,RJ,high
-604,29,240.99,2.6,Salvador,BH,high
-605,35,251.56,2.4,Recife,PE,high
-606,34,236.37,2.4,Salvador,BH,high
-607,55,240.12,2.3,Natal,RN,medium
-608,36,237.38,2.9,Aracaju,RN,medium
-609,6,226.62,2.2,Natal,BH,medium
-610,16,226.99,2.8,Rio de Janeiro,RJ,low
-611,53,248.09,2.6,Florianopolis,SC,high
-612,56,226.46,2.5,Sao Paulo,SP,medium
-613,35,236.06,2.6,Aracaju,SE,medium
-614,20,227.46,2.7,Rio de Janeiro,RJ,low
-615,27,247.53,2.6,Salvador,BH,high
-616,46,236.57,2.7,Rio de Janeiro,RJ,medium
-617,38,235.9,2.4,Aracaju,SE,medium
-618,19,246.12,2.3,Recife,PE,high
-619,45,245.42,2.3,Brasilia,DF,medium
-620,11,216.49,1.9,Brasilia,DF,low
-621,20,236.04,2.0,Natal,BH,medium
-622,38,233.56,2.6,Brasilia,DF,medium
-623,47,249.39,2.5,Brasilia,DF,medium
-624,5,231.28,2.2,Salvador,BH,medium
-625,48,231.25,2.5,Sao Paulo,SP,medium
-626,20,244.05,2.5,Salvador,BH,high
-627,23,255.16,2.2,Florianopolis,SC,high
-628,2,206.8,3.0,Brasilia,DF,low
-629,24,252.46,2.6,Florianopolis,SC,medium
-630,27,211.48,2.7,Sao Paulo,SP,low
-631,25,236.57,2.4,Brasilia,DF,high
-632,47,238.24,2.4,Brasilia,DF,medium
-633,51,243.46,2.3,Florianopolis,SC,medium
-634,49,237.69,2.5,Aracaju,DF,medium
-635,31,242.94,2.1,Florianopolis,SC,high
-636,35,243.24,2.6,Natal,RN,medium
-637,2,214.7,3.5,Rio de Janeiro,BH,low
-638,37,225.09,2.4,Sao Paulo,SP,medium
-639,16,257.25,2.0,Salvador,BH,high
-640,44,236.43,2.6,Salvador,BH,high
-641,57,238.37,2.5,Brasilia,DF,high
-642,50,218.91,2.2,Sao Paulo,SP,low
-643,28,240.99,2.5,Rio de Janeiro,RJ,high
-644,1,165.99,3.0,Rio de Janeiro,RJ,low
-645,45,237.4,2.6,Recife,PE,medium
-646,62,243.81,2.3,Salvador,BH,high
-648,28,204.87,2.5,Brasilia,DF,low
-649,7,240.46,2.0,Florianopolis,RN,medium
-650,62,195.82,2.6,Campo Grande,MS,low
-651,45,224.79,2.5,Florianopolis,RJ,high
-652,56,239.68,2.6,Florianopolis,SC,high
-653,17,228.3,2.2,Rio de Janeiro,RJ,high
-654,27,202.43,2.8,Salvador,BH,low
-655,40,218.12,2.5,Natal,RN,medium
-656,22,235.2,2.3,Florianopolis,SC,high
-657,13,183.47,2.2,Aracaju,SE,medium
-658,34,235.87,2.5,Brasilia,DF,medium
-659,45,219.49,2.4,Florianopolis,SC,high
-660,21,215.08,2.9,Rio de Janeiro,RJ,low
-661,32,204.43,2.3,Campo Grande,MS,low
-662,42,215.12,2.4,Brasilia,DF,medium
-663,14,185.08,2.8,Campo Grande,MS,low
-664,45,222.47,2.8,Rio de Janeiro,RJ,high
-665,29,200.48,2.4,Rio de Janeiro,RJ,low
-666,48,201.97,2.7,Rio de Janeiro,RJ,low
-667,13,220.34,2.2,Brasilia,BH,high
-668,33,225.46,2.5,Recife,PE,high
-669,39,186.86,2.9,Campo Grande,MS,low
-671,41,229.01,2.5,Brasilia,DF,medium
-672,14,220.37,2.4,Recife,PE,high
-673,39,230.86,2.5,Salvador,BH,high
-674,45,231.59,2.4,Florianopolis,SC,high
-675,23,233.88,2.6,Recife,PE,high
-676,25,210.72,2.8,Brasilia,DF,low
-677,48,214.82,2.4,Brasilia,DF,low
-678,54,202.52,2.7,Brasilia,DF,low
-679,9,254.17,2.6,Brasilia,DF,medium
-680,38,212.69,2.4,Aracaju,SE,medium
-681,1,60.39,4.0,Campo Grande,MS,low
-682,3,232.85,1.7,Aracaju,DF,medium
-683,51,240.75,2.6,Recife,PE,high
-684,54,217.05,2.7,Aracaju,DF,medium
-685,29,202.18,2.5,Rio de Janeiro,RJ,medium
-686,25,212.77,2.3,Brasilia,BH,medium
-687,15,266.78,2.5,Recife,PE,high
-688,25,215.36,2.2,Salvador,BH,medium
-689,24,206.35,2.8,Campo Grande,BH,low
-690,48,220.49,2.4,Rio de Janeiro,RJ,low
-691,13,248.16,2.3,Recife,PE,high
-692,1,312.83,1.0,Recife,PE,high
-693,54,210.44,2.4,Recife,PE,low
-694,20,225.8,2.5,Recife,PE,high
-695,24,226.81,2.0,Salvador,BH,high
-696,49,206.66,2.4,Sao Paulo,SP,low
-697,7,194.0,3.3,Aracaju,SE,low
-698,20,226.46,2.6,Rio de Janeiro,RJ,low
-699,14,216.41,2.9,Natal,BH,medium
-700,22,225.98,2.6,Natal,RN,medium
-701,27,215.01,2.3,Campo Grande,BH,high
-702,38,209.81,2.6,Campo Grande,MS,high
-703,27,255.84,2.4,Recife,PE,high
-704,3,274.68,3.0,Brasilia,BH,high
-705,49,214.13,2.5,Brasilia,DF,medium
-706,25,222.82,2.0,Brasilia,DF,medium
-707,42,216.45,2.5,Brasilia,DF,medium
-708,37,248.05,2.6,Recife,PE,high
-709,16,183.33,2.2,Rio de Janeiro,RJ,low
-710,53,234.62,2.6,Aracaju,BH,medium
-711,35,216.03,2.5,Brasilia,DF,medium
-712,29,198.84,2.5,Campo Grande,MS,low
-713,26,240.36,2.7,Florianopolis,SC,high
-714,51,231.43,2.5,Florianopolis,SC,medium
-715,49,232.72,2.5,Salvador,BH,high
-716,32,187.41,2.5,Campo Grande,MS,low
-717,23,219.47,2.4,Florianopolis,RN,medium
-718,41,197.9,2.3,Campo Grande,MS,low
-719,30,215.11,2.6,Sao Paulo,SP,low
-721,16,188.49,2.8,Campo Grande,MS,low
-722,28,219.27,2.5,Natal,RN,medium
-723,29,218.56,2.2,Florianopolis,SC,high
-724,31,197.36,2.5,Campo Grande,MS,low
-725,20,215.02,2.3,Campo Grande,BH,high
-726,25,200.56,2.6,Aracaju,MS,low
-727,61,223.27,2.2,Rio de Janeiro,RJ,high
-728,8,155.39,2.5,Campo Grande,MS,low
-729,24,210.46,2.4,Salvador,BH,low
-730,36,223.64,2.6,Salvador,BH,high
-731,43,201.97,2.5,Campo Grande,MS,medium
-732,21,232.24,2.9,Salvador,BH,high
-733,18,225.86,2.4,Natal,BH,high
-734,1,312.83,4.0,Recife,PE,high
-735,28,217.68,2.6,Aracaju,RJ,medium
-736,25,204.91,2.5,Campo Grande,MS,medium
-737,46,239.66,2.5,Recife,PE,high
-738,27,190.55,2.7,Campo Grande,MS,low
-739,29,243.92,2.5,Recife,PE,high
-740,14,206.62,2.2,Brasilia,DF,low
-741,22,209.95,2.5,Rio de Janeiro,RJ,low
-742,47,206.92,2.6,Rio de Janeiro,RJ,low
-743,37,214.62,2.5,Recife,PE,high
-744,49,230.15,2.6,Florianopolis,SC,high
-745,37,233.45,2.5,Brasilia,DF,medium
-746,47,229.45,2.2,Recife,PE,high
-747,53,222.11,2.4,Recife,PE,high
-748,23,216.35,2.7,Florianopolis,RN,low
-749,15,231.66,2.5,Salvador,BH,high
-750,17,191.66,2.4,Campo Grande,MS,low
-751,32,223.04,2.3,Campo Grande,BH,high
-752,56,203.7,2.3,Campo Grande,MS,low
-753,8,220.1,2.1,Recife,BH,high
-754,21,204.24,2.2,Natal,RN,low
-755,46,219.4,2.6,Brasilia,DF,medium
-756,46,224.76,2.6,Aracaju,DF,medium
-757,60,231.72,2.5,Brasilia,DF,high
-758,25,216.99,2.2,Salvador,BH,high
-759,9,208.4,2.0,Campo Grande,MS,low
-760,44,188.84,2.6,Campo Grande,MS,low
-761,31,217.35,2.3,Brasilia,DF,low
-762,13,209.67,2.5,Rio de Janeiro,RJ,low
-763,46,221.67,2.4,Brasilia,BH,high
-764,8,255.94,2.2,Natal,RN,high
-765,37,229.63,2.6,Salvador,BH,high
-766,55,198.87,2.5,Campo Grande,MS,low
-767,6,146.62,3.2,Campo Grande,MS,low
-768,7,219.01,2.6,Natal,RJ,low
-769,10,207.72,3.1,Rio de Janeiro,RJ,low
-770,17,232.88,2.3,Florianopolis,SC,high
-771,14,220.02,2.7,Recife,PE,medium
-772,46,209.33,2.3,Campo Grande,MS,low
-773,35,192.4,2.4,Campo Grande,MS,low
-774,4,210.6,1.8,Brasilia,DF,medium
-775,47,220.81,2.6,Rio de Janeiro,RJ,high
-776,44,213.52,2.6,Campo Grande,MS,low
-777,13,226.26,2.6,Salvador,BH,high
-778,7,228.63,1.9,Salvador,BH,high
-779,51,222.17,2.4,Brasilia,DF,medium
-780,28,231.16,2.4,Brasilia,DF,high
-781,25,243.65,2.7,Florianopolis,SC,high
-782,35,227.47,2.4,Florianopolis,SC,high
-783,43,206.33,2.4,Brasilia,DF,low
-784,12,215.62,2.3,Brasilia,DF,medium
-785,14,207.44,2.5,Aracaju,DF,medium
-786,35,244.09,2.2,Recife,PE,high
-787,37,219.49,2.1,Brasilia,DF,medium
-788,35,221.31,2.6,Salvador,BH,high
-789,50,219.26,2.5,Brasilia,DF,medium
-790,7,210.19,2.4,Sao Paulo,SP,low
-791,22,221.72,2.6,Natal,RN,high
-792,17,217.59,2.5,Rio de Janeiro,RJ,low
-793,55,215.68,2.4,Florianopolis,SC,low
-794,31,197.24,2.5,Brasilia,DF,low
-795,7,220.89,2.7,Florianopolis,RN,medium
-796,52,199.24,2.4,Campo Grande,MS,low
-797,30,200.52,2.5,Natal,RN,low
-798,56,230.71,2.7,Florianopolis,PE,high
-799,40,205.79,3.0,Campo Grande,MS,high
-800,19,235.61,2.6,Recife,PE,high
-801,7,185.56,2.1,Aracaju,RJ,medium
-802,28,216.48,2.6,Brasilia,DF,low
-803,10,213.28,2.8,Aracaju,SE,medium
-804,15,229.68,2.0,Salvador,BH,high
-805,18,204.28,2.6,Natal,RN,medium
-806,8,219.41,3.2,Florianopolis,SC,low
-807,1,60.39,3.0,Campo Grande,MS,low
-808,46,218.8,2.8,Recife,PE,high
-809,51,206.24,2.6,Rio de Janeiro,RJ,low
-810,36,206.58,2.7,Brasilia,DF,low
-811,6,226.55,3.0,Rio de Janeiro,RJ,low
-812,13,239.09,2.5,Florianopolis,SC,high
-813,40,230.18,2.5,Recife,PE,high
-814,61,221.48,2.3,Florianopolis,RN,high
-815,7,262.35,3.1,Brasilia,DF,high
-816,13,239.19,2.0,Salvador,BH,high
-817,14,240.54,2.3,Florianopolis,PE,high
-818,17,224.22,2.6,Rio de Janeiro,RJ,low
-819,1,247.62,2.0,Brasilia,DF,medium
-820,62,224.48,2.2,Florianopolis,SC,high
-821,3,231.6,3.3,Natal,PE,low
-822,15,216.02,2.4,Salvador,BH,high
-823,32,209.21,2.3,Brasilia,DF,low
-824,35,228.81,2.6,Florianopolis,SC,high
-825,20,228.73,2.6,Salvador,BH,high
-826,27,226.93,2.6,Rio de Janeiro,RJ,high
-827,5,283.61,1.8,Florianopolis,SC,high
-828,43,197.76,2.3,Campo Grande,MS,high
-829,5,224.02,2.6,Brasilia,DF,medium
-830,39,196.25,2.5,Rio de Janeiro,BH,low
-831,31,218.9,2.5,Recife,PE,high
-832,31,228.44,2.5,Brasilia,DF,medium
-833,5,220.09,2.2,Rio de Janeiro,RJ,low
-834,11,210.8,2.4,Campo Grande,BH,high
-835,49,210.34,2.6,Brasilia,DF,low
-836,44,219.34,2.2,Campo Grande,MS,high
-837,45,217.12,2.5,Salvador,BH,high
-838,36,197.89,2.7,Rio de Janeiro,RJ,low
-839,12,233.83,3.0,Florianopolis,BH,high
-840,18,197.71,2.3,Campo Grande,MS,low
-841,4,233.67,2.2,Aracaju,DF,medium
-842,6,207.65,3.0,Natal,RN,medium
-843,35,230.52,2.5,Florianopolis,SC,high
-844,2,239.41,2.5,Recife,PE,low
-846,49,204.12,2.6,Rio de Janeiro,RJ,low
-847,40,213.6,2.2,Campo Grande,MS,low
-848,52,258.46,2.7,Recife,PE,high
-849,5,247.49,2.4,Brasilia,DF,medium
-850,37,207.91,2.1,Brasilia,DF,low
-851,15,263.47,2.7,Florianopolis,SC,high
-852,61,219.19,2.6,Campo Grande,MS,high
-853,14,212.02,2.8,Campo Grande,MS,high
-854,5,212.75,2.0,Brasilia,DF,low
-855,16,233.17,2.1,Florianopolis,SC,high
-856,48,233.95,2.6,Florianopolis,SC,high
-857,5,186.94,2.2,Sao Paulo,SP,low
-858,39,203.24,2.5,Campo Grande,MS,low
-859,47,208.26,2.5,Campo Grande,MS,medium
-860,25,214.81,2.6,Brasilia,BH,high
-861,9,159.23,2.0,Campo Grande,MS,low
-862,26,182.26,2.3,Campo Grande,MS,low
-864,50,226.11,2.3,Rio de Janeiro,RJ,high
-865,29,257.09,2.1,Recife,PE,high
-866,26,195.79,2.5,Sao Paulo,SP,low
-867,9,183.78,2.7,Campo Grande,MS,low
-868,39,249.05,2.3,Florianopolis,SC,high
-869,41,205.23,2.3,Aracaju,SE,medium
-870,24,239.32,2.7,Florianopolis,PE,high
-871,18,243.91,2.5,Recife,PE,high
-872,25,230.81,2.6,Salvador,BH,high
-873,45,229.95,2.4,Salvador,BH,high
-874,12,213.29,2.6,Brasilia,DF,low
-875,42,228.89,2.3,Recife,PE,high
-876,3,273.04,2.3,Natal,BH,high
-877,26,217.79,2.4,Florianopolis,SC,low
-878,46,235.52,2.5,Salvador,BH,high
-879,57,228.26,2.4,Florianopolis,RJ,high
-880,24,220.95,3.1,Natal,RN,medium
-881,41,247.28,2.6,Recife,PE,high
-882,64,218.54,2.6,Florianopolis,SC,low
-884,40,247.87,2.4,Florianopolis,BH,high
-885,20,197.23,2.6,Aracaju,BH,low
-886,25,228.72,2.5,Natal,RN,medium
-887,25,214.4,2.7,Natal,RN,medium
-888,47,192.39,2.7,Campo Grande,MS,low
-889,19,201.3,2.5,Salvador,BH,low
-890,10,188.94,2.5,Brasilia,DF,medium
-891,40,197.31,2.4,Sao Paulo,SP,low
-892,13,199.97,2.2,Rio de Janeiro,RJ,low
-894,16,202.92,2.4,Salvador,BH,low
-895,37,204.46,2.7,Sao Paulo,SP,medium
-896,52,195.26,2.3,Natal,RN,low
-897,48,213.5,2.4,Brasilia,DF,medium
-898,60,212.0,2.6,Recife,PE,medium
-899,8,193.76,2.8,Aracaju,SE,medium
-900,66,197.68,2.4,Rio de Janeiro,RJ,low
-901,8,235.13,2.9,Recife,PE,high
-902,21,237.27,2.7,Natal,RN,medium
-903,4,234.42,2.2,Natal,RN,medium
-904,38,176.3,2.3,Campo Grande,MS,low
-905,41,217.12,2.3,Recife,PE,medium
-906,43,211.4,2.4,Brasilia,DF,medium
-907,11,241.19,2.3,Brasilia,DF,medium
-908,62,217.65,2.4,Brasilia,DF,medium
-909,42,206.02,2.4,Natal,RN,low
-910,1,263.41,2.0,Salvador,BH,high
-911,2,260.44,4.0,Aracaju,PE,medium
-912,48,195.31,2.6,Campo Grande,MS,low
-913,9,204.03,2.8,Aracaju,DF,medium
-914,57,208.3,2.7,Salvador,BH,low
-915,55,226.77,2.9,Natal,RN,medium
-916,23,211.61,2.5,Aracaju,SE,low
-917,23,208.31,3.0,Rio de Janeiro,RJ,medium
-918,11,186.33,2.1,Sao Paulo,SP,low
-919,55,196.83,2.2,Natal,RN,medium
-920,28,199.37,2.1,Natal,RN,medium
-921,8,179.06,1.6,Campo Grande,MS,low
-922,56,197.39,2.3,Sao Paulo,SP,low
-923,17,181.53,3.0,Sao Paulo,SP,low
-924,34,219.57,2.4,Brasilia,DF,medium
-925,64,192.13,2.5,Sao Paulo,SP,low
-926,4,172.5,3.0,Brasilia,DF,low
-927,1,60.39,1.0,Campo Grande,MS,low
-928,26,213.23,2.8,Aracaju,RJ,medium
-929,9,222.28,2.3,Recife,BH,high
-930,52,218.82,2.5,Aracaju,SE,medium
-931,50,221.84,2.6,Recife,PE,medium
-932,1,60.39,3.0,Campo Grande,MS,low
-933,58,204.57,2.5,Natal,PE,low
-934,7,240.08,2.1,Brasilia,DF,medium
-935,44,199.92,2.7,Natal,RN,medium
-936,52,204.74,2.5,Brasilia,DF,medium
-937,26,218.74,2.3,Rio de Janeiro,RJ,low
-938,17,189.63,2.2,Rio de Janeiro,RJ,low
-939,19,231.34,2.1,Brasilia,DF,medium
-940,65,198.54,2.6,Campo Grande,MS,low
-941,42,220.53,2.3,Natal,RN,medium
-942,16,208.39,2.9,Recife,PE,low
-943,36,198.68,2.7,Sao Paulo,SP,medium
-944,4,160.62,3.8,Aracaju,SE,low
-945,53,196.25,2.1,Brasilia,DF,medium
-946,30,201.71,2.4,Brasilia,DF,medium
-947,4,182.28,2.2,Sao Paulo,SP,low
-948,30,215.3,2.7,Salvador,BH,medium
-949,47,182.4,2.5,Campo Grande,MS,low
-950,3,203.52,3.3,Aracaju,BH,low
-951,22,204.29,2.4,Aracaju,DF,medium
-952,52,204.66,2.3,Natal,RN,medium
-953,23,200.96,2.5,Sao Paulo,SP,medium
-954,2,60.39,2.5,Campo Grande,MS,low
-955,50,214.32,2.6,Rio de Janeiro,BH,low
-956,37,205.5,2.4,Campo Grande,MS,low
-957,48,197.42,2.5,Brasilia,DF,low
-958,46,196.53,2.6,Campo Grande,MS,low
-959,18,200.33,1.9,Brasilia,DF,medium
-960,37,195.2,3.0,Sao Paulo,SP,low
-961,22,196.17,3.0,Sao Paulo,SP,low
-962,63,217.7,2.5,Natal,RN,medium
-963,13,180.35,2.9,Campo Grande,MS,low
-964,8,177.35,2.5,Brasilia,DF,medium
-965,11,204.23,1.7,Brasilia,BH,low
-966,20,207.39,2.3,Rio de Janeiro,RJ,low
-967,43,211.1,2.3,Salvador,BH,medium
-968,23,219.16,2.8,Natal,RN,medium
-969,19,211.53,2.4,Recife,PE,low
-970,2,235.73,3.0,Aracaju,BH,medium
-971,23,207.27,2.4,Salvador,BH,low
-972,22,193.27,2.5,Aracaju,DF,medium
-973,42,212.44,2.5,Brasilia,DF,medium
-974,33,210.76,2.6,Brasilia,DF,medium
-975,54,192.11,2.7,Sao Paulo,SP,low
-976,8,196.78,2.5,Brasilia,DF,low
-977,65,214.1,2.3,Aracaju,SE,medium
-978,17,199.48,2.5,Aracaju,RJ,low
-979,13,188.96,2.1,Campo Grande,MS,low
-980,27,197.58,2.3,Aracaju,MS,low
-981,41,210.53,2.1,Salvador,BH,medium
-982,22,186.91,2.9,Campo Grande,MS,low
-984,29,209.45,2.6,Rio de Janeiro,RJ,low
-985,53,196.4,2.1,Campo Grande,MS,medium
-986,2,263.41,2.0,Salvador,BH,high
-988,17,158.83,2.3,Campo Grande,MS,low
-989,40,216.03,2.6,Recife,PE,medium
-990,24,237.84,2.6,Recife,PE,high
-991,12,202.31,2.2,Aracaju,MS,medium
-992,63,199.93,2.2,Rio de Janeiro,RJ,low
-993,46,212.39,2.5,Sao Paulo,SP,medium
-994,5,202.13,3.0,Aracaju,BH,low
-996,21,186.87,2.2,Brasilia,DF,low
-997,15,193.27,2.6,Salvador,BH,low
-998,55,208.26,2.6,Brasilia,DF,medium
-999,1,242.88,3.0,Natal,RN,medium
-1000,16,198.6,2.4,Aracaju,RJ,low
-1001,53,202.63,2.7,Rio de Janeiro,RJ,low
-1002,50,199.22,2.5,Sao Paulo,SP,low
-1003,59,209.34,2.7,Salvador,BH,low
-1004,61,208.93,2.7,Rio de Janeiro,RJ,medium
-1005,55,204.64,2.8,Campo Grande,BH,low
-1006,7,161.24,2.3,Aracaju,SE,low
-1007,15,198.88,2.6,Rio de Janeiro,RJ,low
-1008,19,239.19,2.6,Brasilia,BH,medium
-1009,45,200.56,2.2,Sao Paulo,SP,low
-1010,13,186.59,2.3,Rio de Janeiro,RJ,low
-1011,50,212.65,2.4,Aracaju,PE,medium
-1012,43,183.83,2.1,Campo Grande,MS,low
-1013,27,227.59,2.5,Recife,PE,low
-1014,24,197.2,2.2,Aracaju,SE,medium
-1015,41,207.06,2.5,Aracaju,SE,low
-1017,17,170.26,2.6,Campo Grande,MS,low
-1018,3,217.25,2.3,Natal,RN,medium
-1019,48,187.44,2.2,Campo Grande,BH,low
-1020,10,222.02,2.4,Aracaju,BH,medium
-1021,27,216.07,3.3,Aracaju,SE,medium
-1022,54,212.33,2.7,Recife,PE,low
-1023,7,195.02,2.3,Recife,PE,low
-1024,53,196.1,2.6,Campo Grande,MS,medium
-1026,51,200.28,2.9,Rio de Janeiro,BH,low
-1027,57,181.37,2.4,Campo Grande,MS,low
-1028,29,202.43,2.5,Sao Paulo,SP,low
-1029,62,204.21,2.5,Natal,BH,low
-1030,4,196.12,3.5,Sao Paulo,SP,low
-1031,22,190.4,2.8,Rio de Janeiro,RJ,low
-1032,36,206.7,2.4,Rio de Janeiro,RJ,low
-1033,42,202.24,2.6,Rio de Janeiro,RJ,low
-1034,16,154.37,2.0,Sao Paulo,SP,low
-1035,15,199.72,2.3,Aracaju,DF,medium
-1036,31,189.16,2.5,Rio de Janeiro,RJ,low
-1037,39,218.39,2.5,Recife,PE,low
-1038,12,189.99,2.8,Sao Paulo,SP,low
-1039,44,208.26,2.5,Recife,PE,medium
-1040,48,221.51,2.6,Recife,PE,high
-1041,60,197.4,2.6,Salvador,BH,low
-1042,18,209.2,2.9,Salvador,BH,medium
-1043,34,212.87,2.4,Recife,PE,low
-1044,7,217.11,2.6,Aracaju,RN,medium
-1045,15,209.18,2.5,Recife,PE,low
-1046,36,192.13,2.5,Campo Grande,MS,low
-1047,34,209.37,2.6,Recife,PE,low
-1048,42,209.14,2.6,Salvador,BH,high
-1049,48,198.69,2.5,Sao Paulo,SP,low
-1050,18,201.4,2.9,Salvador,BH,medium
-1051,23,176.59,2.7,Campo Grande,MS,low
-1052,5,230.22,2.6,Rio de Janeiro,RJ,low
-1053,26,208.36,2.5,Natal,RJ,low
-1054,11,216.27,2.4,Rio de Janeiro,RJ,low
-1055,6,243.55,2.8,Salvador,BH,high
-1056,62,204.78,2.4,Brasilia,DF,low
-1057,14,235.42,2.6,Salvador,BH,high
-1058,35,205.83,2.0,Aracaju,SE,medium
-1059,19,206.21,2.3,Aracaju,BH,low
-1060,37,200.99,2.4,Rio de Janeiro,RJ,low
-1061,40,198.58,2.3,Natal,RN,low
-1062,17,207.76,2.1,Natal,RN,low
-1063,25,194.0,2.7,Brasilia,DF,medium
-1064,35,189.6,2.4,Sao Paulo,SP,low
-1065,32,194.87,2.5,Sao Paulo,SP,low
-1066,55,197.79,2.3,Rio de Janeiro,RJ,low
-1067,28,231.84,2.2,Natal,RN,medium
-1068,2,245.25,1.0,Brasilia,DF,medium
-1069,44,207.38,2.5,Aracaju,PE,medium
-1070,50,226.92,2.5,Salvador,BH,high
-1071,40,203.32,2.2,Salvador,BH,low
-1072,19,195.85,2.1,Salvador,BH,medium
-1073,26,204.9,2.5,Sao Paulo,SP,low
-1074,56,189.88,2.3,Campo Grande,MS,low
-1076,47,196.52,2.5,Rio de Janeiro,RJ,low
-1077,21,215.33,2.4,Brasilia,DF,low
-1078,50,207.29,2.2,Brasilia,DF,low
-1079,35,214.3,2.6,Brasilia,DF,medium
-1080,59,219.34,2.6,Brasilia,DF,medium
-1081,10,162.67,2.4,Rio de Janeiro,RJ,low
-1082,28,217.89,2.2,Natal,RN,medium
-1083,62,215.95,2.6,Natal,RN,medium
-1084,4,176.3,3.0,Rio de Janeiro,RJ,low
-1085,49,211.24,2.1,Brasilia,DF,medium
-1086,52,214.25,2.6,Rio de Janeiro,RJ,medium
-1087,10,207.81,2.3,Brasilia,DF,medium
-1088,13,158.47,2.7,Campo Grande,MS,low
-1089,53,189.73,2.8,Campo Grande,MS,low
-1090,37,216.7,2.5,Recife,PE,medium
-1091,60,204.16,2.6,Salvador,BH,low
-1092,19,219.0,2.9,Aracaju,PE,medium
-1093,7,205.7,2.3,Brasilia,DF,medium
-1094,3,215.13,3.3,Natal,BH,low
-1095,45,208.66,2.5,Brasilia,DF,medium
-1096,23,192.82,2.7,Sao Paulo,SP,low
-1097,40,194.2,2.3,Sao Paulo,SP,low
-1098,14,197.6,2.7,Aracaju,SE,medium
-1099,20,205.17,2.5,Aracaju,SE,medium
-1100,29,194.91,2.6,Sao Paulo,SP,low
-1101,52,208.32,2.3,Aracaju,SE,medium
-1102,15,191.77,3.1,Campo Grande,MS,low
-1103,48,200.4,2.2,Aracaju,SE,low
-1104,76,193.01,2.7,Campo Grande,MS,low
-1105,63,210.02,2.5,Aracaju,RN,medium
-1106,16,211.08,2.5,Rio de Janeiro,RJ,low
-1107,10,199.95,3.2,Brasilia,DF,low
-1108,48,198.87,2.3,Rio de Janeiro,BH,low
-1109,13,224.03,2.8,Aracaju,SE,medium
-1110,11,193.68,2.3,Sao Paulo,SP,low
-1111,29,229.83,2.7,Salvador,BH,medium
-1112,45,214.26,2.4,Salvador,BH,medium
-1113,33,197.67,2.2,Rio de Janeiro,RJ,low
-1114,12,157.7,1.8,Campo Grande,MS,low
-1115,7,177.11,3.3,Sao Paulo,SP,low
-1116,41,202.19,2.3,Campo Grande,MS,medium
-1117,1,208.04,4.0,Aracaju,SE,medium
-1118,23,201.86,2.4,Natal,BH,low
-1119,25,193.47,2.5,Sao Paulo,SP,low
-1120,36,216.52,2.3,Salvador,BH,medium
-1121,33,211.17,2.8,Aracaju,SE,medium
-1122,20,197.32,2.6,Brasilia,BH,low
-1123,31,192.26,2.3,Campo Grande,MS,low
-1124,6,153.9,3.5,Campo Grande,MS,low
-1125,18,230.94,2.4,Natal,RN,medium
-1126,43,213.71,2.5,Salvador,BH,medium
-1127,61,197.33,2.5,Brasilia,DF,low
-1128,12,216.54,2.5,Natal,BH,low
-1129,15,218.5,2.7,Natal,PE,medium
-1130,13,219.82,2.2,Aracaju,BH,medium
-1131,34,200.55,2.2,Salvador,BH,low
-1132,30,229.16,2.5,Salvador,BH,high
-1133,7,212.78,2.6,Recife,PE,low
-1134,1,139.1,2.0,Sao Paulo,SP,low
-1135,54,200.73,2.9,Recife,PE,low
-1136,10,184.37,2.5,Campo Grande,MS,low
-1137,12,180.24,2.9,Natal,RN,low
-1138,69,198.09,2.3,Aracaju,SE,medium
-1139,39,216.65,2.7,Natal,RN,medium
-1140,47,199.47,2.6,Natal,RN,medium
-1141,47,206.64,2.6,Recife,PE,low
-1142,11,182.84,2.5,Rio de Janeiro,RJ,low
-1143,12,172.47,3.2,Campo Grande,MS,low
-1144,7,227.78,2.4,Aracaju,PE,medium
-1145,63,217.36,2.5,Brasilia,DF,medium
-1146,38,197.14,2.8,Sao Paulo,SP,low
-1147,45,192.79,2.4,Aracaju,MS,low
-1148,56,217.55,2.4,Brasilia,BH,medium
-1149,53,206.1,2.5,Aracaju,SE,medium
-1150,63,207.83,2.4,Natal,RN,medium
-1151,20,190.8,2.2,Natal,RJ,low
-1152,23,204.01,2.7,Recife,BH,low
-1153,46,189.84,2.4,Brasilia,DF,medium
-1154,23,193.06,2.9,Brasilia,DF,medium
-1155,62,204.98,2.5,Brasilia,DF,medium
-1156,57,201.06,2.4,Salvador,BH,medium
-1157,24,225.84,2.5,Salvador,BH,high
-1158,37,206.49,2.3,Natal,RN,low
-1159,41,201.53,2.5,Campo Grande,BH,low
-1160,19,216.64,2.5,Rio de Janeiro,RJ,medium
-1161,19,188.54,2.6,Aracaju,SE,low
-1162,37,218.43,2.9,Aracaju,BH,medium
-1163,25,202.85,2.3,Rio de Janeiro,RJ,low
-1164,42,195.31,2.4,Salvador,BH,low
-1165,54,202.8,2.3,Aracaju,RN,medium
-1166,36,210.86,2.4,Salvador,BH,medium
-1167,30,211.58,2.2,Rio de Janeiro,RJ,low
-1168,4,216.38,2.5,Brasilia,DF,low
-1169,12,167.63,2.2,Aracaju,RJ,low
-1170,61,213.94,2.5,Salvador,BH,high
-1172,14,234.54,2.4,Natal,RN,high
-1173,40,196.0,2.6,Brasilia,DF,medium
-1174,22,199.77,2.0,Aracaju,SE,medium
-1175,34,206.48,2.6,Natal,RN,medium
-1176,49,199.87,2.2,Aracaju,SE,low
-1177,18,221.38,2.3,Aracaju,PE,high
-1178,30,196.31,2.8,Natal,RN,low
-1179,20,219.1,2.3,Aracaju,SE,medium
-1180,18,211.18,2.8,Recife,PE,low
-1181,8,214.28,2.6,Natal,RN,low
-1183,50,190.56,2.3,Salvador,BH,low
-1184,24,201.17,2.3,Rio de Janeiro,BH,low
-1185,51,210.35,2.6,Brasilia,DF,medium
-1186,32,200.64,2.8,Natal,PE,low
-1187,17,196.24,3.3,Sao Paulo,SP,low
-1188,43,204.23,2.6,Brasilia,DF,medium
-1189,37,210.73,2.5,Brasilia,DF,low
-1190,13,208.94,2.8,Sao Paulo,SP,low
-1191,42,220.26,2.6,Natal,RN,medium
-1192,3,86.63,3.3,Campo Grande,MS,low
-1193,43,198.55,2.6,Sao Paulo,SP,low
-1194,24,228.54,2.2,Brasilia,DF,medium
-1195,28,236.57,2.6,Recife,PE,high
-1196,51,194.87,2.6,Campo Grande,BH,low
-1197,64,213.75,2.7,Brasilia,DF,medium
-1198,15,183.53,2.5,Campo Grande,BH,low
-1199,10,209.12,2.9,Aracaju,RN,medium
-1200,4,196.12,3.0,Sao Paulo,SP,low
-1201,40,211.56,2.5,Salvador,BH,medium
-1202,29,200.06,2.2,Brasilia,DF,medium
-1203,52,197.89,2.4,Salvador,BH,low
-1204,40,206.53,2.5,Brasilia,DF,medium
-1205,54,203.29,2.3,Salvador,BH,low
-1206,21,218.54,2.4,Brasilia,BH,medium
-1207,6,148.25,3.0,Campo Grande,MS,low
-1208,28,231.76,2.8,Recife,PE,high
-1209,8,225.0,2.5,Brasilia,DF,low
-1210,51,194.59,2.2,Rio de Janeiro,RJ,low
-1211,7,208.44,2.3,Rio de Janeiro,RJ,low
-1212,51,206.7,2.9,Rio de Janeiro,BH,low
-1213,33,179.27,2.5,Sao Paulo,SP,low
-1214,55,209.49,2.5,Brasilia,DF,medium
-1215,15,226.01,2.7,Recife,PE,high
-1216,19,184.94,2.3,Campo Grande,MS,low
-1217,23,190.47,2.6,Campo Grande,MS,low
-1218,52,210.51,2.2,Brasilia,DF,medium
-1219,40,194.04,2.4,Salvador,BH,low
-1220,54,203.53,2.4,Rio de Janeiro,RJ,low
-1221,34,185.43,2.2,Campo Grande,MS,low
-1222,60,230.62,2.6,Natal,PE,medium
-1223,46,210.76,2.3,Natal,RN,medium
-1224,47,207.55,2.3,Brasilia,DF,medium
-1225,22,214.59,2.4,Aracaju,SE,medium
-1226,59,208.88,2.6,Salvador,BH,low
-1227,53,203.02,2.7,Brasilia,DF,medium
-1228,48,195.57,2.6,Aracaju,SE,low
-1229,12,179.63,2.5,Campo Grande,MS,low
-1230,33,213.9,2.3,Rio de Janeiro,RJ,low
-1231,51,203.76,2.6,Brasilia,BH,medium
-1232,16,190.72,2.8,Aracaju,SE,medium
-1233,47,215.86,2.7,Natal,RN,medium
-1234,25,196.12,2.4,Aracaju,DF,low
-1235,38,196.39,2.4,Aracaju,MS,medium
-1236,37,202.04,2.5,Salvador,BH,medium
-1237,13,205.21,2.8,Aracaju,RN,medium
-1238,10,185.49,2.4,Natal,RN,low
-1239,37,232.02,2.6,Natal,BH,high
-1240,32,182.61,2.8,Aracaju,SE,low
-1241,7,211.72,2.6,Salvador,BH,low
-1242,15,201.48,2.4,Natal,RN,medium
-1243,25,209.26,2.2,Brasilia,DF,medium
-1245,14,219.74,3.0,Natal,RN,medium
-1246,33,212.88,2.6,Aracaju,PE,medium
-1247,5,235.31,3.0,Recife,PE,medium
-1248,49,217.61,2.6,Brasilia,BH,medium
-1249,55,215.11,2.5,Brasilia,DF,medium
-1250,24,205.3,2.4,Salvador,BH,high
-1251,6,229.26,2.2,Brasilia,DF,medium
-1252,68,203.96,2.5,Brasilia,DF,low
-1253,61,208.99,2.7,Rio de Janeiro,BH,medium
-1254,29,191.83,2.2,Sao Paulo,SP,low
-1255,42,211.2,2.5,Salvador,BH,low
-1256,50,196.8,2.6,Rio de Janeiro,RJ,low
-1257,54,204.98,2.9,Natal,RJ,low
-1258,27,203.35,2.5,Brasilia,DF,low
-1259,50,205.98,2.6,Sao Paulo,SP,low
-1260,56,205.95,2.2,Recife,PE,low
-1261,42,193.68,2.1,Campo Grande,MS,low
-1262,21,215.06,2.3,Natal,RN,medium
-1263,38,207.11,2.3,Aracaju,DF,medium
-1264,25,205.99,2.1,Brasilia,DF,medium
-1265,36,205.25,2.1,Campo Grande,MS,medium
-1266,14,197.46,2.6,Brasilia,DF,low
-1267,10,221.65,2.3,Recife,BH,high
-1268,51,216.92,2.7,Aracaju,SE,medium
-1269,60,211.43,2.7,Rio de Janeiro,RJ,medium
-1270,46,210.75,2.7,Natal,RN,medium
-1271,40,184.43,2.4,Campo Grande,MS,low
-1272,55,201.18,2.3,Aracaju,SE,medium
-1273,49,207.3,2.6,Recife,PE,low
-1274,2,173.57,2.0,Aracaju,SE,low
-1275,1,60.39,2.0,Campo Grande,MS,low
-1276,7,192.85,2.0,Sao Paulo,SP,low
-1277,26,212.68,2.6,Salvador,BH,low
-1278,50,211.88,2.7,Brasilia,DF,medium
-1279,41,211.65,2.7,Brasilia,DF,medium
-1280,52,204.78,2.6,Aracaju,SE,medium
-1281,46,199.14,2.7,Campo Grande,MS,low
-1282,45,202.94,2.5,Natal,RN,low
-1283,41,203.12,2.5,Brasilia,DF,low
-1284,12,244.83,2.7,Recife,BH,high
-1285,3,198.46,2.3,Rio de Janeiro,RJ,low
-1286,64,229.26,2.5,Recife,PE,medium
-1287,14,192.69,2.1,Sao Paulo,SP,low
-1288,63,201.75,2.3,Sao Paulo,SP,low
-1289,27,207.09,2.3,Sao Paulo,SP,medium
-1290,55,205.93,2.5,Brasilia,DF,medium
-1291,9,165.37,2.6,Rio de Janeiro,RJ,low
-1292,1,60.39,4.0,Campo Grande,MS,low
-1293,49,214.27,2.6,Aracaju,SE,medium
-1294,5,163.64,2.2,Rio de Janeiro,RJ,low
-1295,52,208.99,2.6,Natal,BH,medium
-1296,16,195.09,2.6,Aracaju,SE,medium
-1297,18,193.59,2.4,Campo Grande,MS,low
-1298,33,181.28,2.9,Rio de Janeiro,RJ,low
-1299,34,195.61,2.6,Rio de Janeiro,RJ,low
-1300,19,178.14,2.8,Sao Paulo,SP,low
-1301,3,232.85,2.7,Aracaju,DF,medium
-1302,55,215.3,2.7,Recife,PE,medium
-1303,10,217.69,2.4,Aracaju,BH,high
-1304,16,213.6,2.6,Brasilia,BH,medium
-1305,63,220.25,2.3,Salvador,BH,medium
-1306,45,223.87,2.9,Recife,PE,high
-1307,25,190.74,2.2,Salvador,BH,low
-1308,8,211.08,2.2,Aracaju,RN,medium
-1309,14,226.74,2.1,Brasilia,DF,medium
-1310,35,198.88,2.4,Rio de Janeiro,RJ,low
-1311,50,209.59,2.8,Rio de Janeiro,RJ,low
-1312,32,210.9,2.4,Brasilia,BH,medium
-1313,6,198.84,2.0,Brasilia,DF,medium
-1314,44,217.48,2.7,Salvador,BH,high
-1315,44,185.5,2.1,Campo Grande,BH,low
-1316,44,182.54,2.4,Campo Grande,MS,low
-1317,35,199.17,2.4,Rio de Janeiro,RJ,low
-1318,12,216.51,2.8,Salvador,BH,high
-1319,43,191.04,2.4,Aracaju,SE,medium
-1320,59,210.61,2.5,Brasilia,DF,medium
-1321,31,223.47,2.7,Salvador,BH,medium
-1322,41,192.22,2.3,Aracaju,SE,medium
-1323,74,208.05,2.7,Brasilia,DF,medium
-1324,46,191.27,2.7,Campo Grande,MS,medium
-1325,35,198.66,2.3,Natal,RN,low
-1326,9,190.72,2.2,Campo Grande,BH,low
-1327,19,206.01,2.6,Recife,BH,low
-1328,17,180.82,2.4,Rio de Janeiro,RJ,low
-1330,42,226.61,2.6,Brasilia,DF,medium
-1331,33,200.13,2.5,Brasilia,DF,medium
-1332,48,198.91,2.9,Aracaju,SE,medium
-1333,30,206.77,2.7,Brasilia,BH,medium
-1334,4,236.79,2.5,Brasilia,DF,medium
-1335,60,197.84,2.4,Rio de Janeiro,RJ,low
-1336,1,247.62,2.0,Brasilia,DF,medium
-1337,11,236.93,2.8,Recife,PE,high
-1338,1,247.62,4.0,Brasilia,DF,medium
-1339,13,204.82,2.2,Aracaju,BH,medium
+userCode,trips_count,mean_price,mean_days,fav_city,fav_state
+0,27,225.74,2.6,Salvador,BH
+1,2,193.36,1.0,Brasilia,DF
+2,36,210.05,2.7,Campo Grande,MS
+3,60,217.06,2.3,Natal,RN
+4,56,214.95,2.6,Rio de Janeiro,RJ
+5,13,209.59,2.1,Salvador,BH
+6,23,220.89,2.5,Sao Paulo,SP
+7,14,172.64,2.6,Campo Grande,MS
+8,52,224.98,2.6,Natal,RN
+9,32,195.57,2.8,Campo Grande,MS
+10,17,215.83,2.6,Brasilia,BH
+11,54,214.64,2.5,Florianopolis,RN
+12,26,220.04,2.5,Rio de Janeiro,RJ
+13,50,211.43,2.7,Salvador,BH
+14,9,222.43,2.4,Salvador,BH
+15,47,198.36,2.4,Campo Grande,MS
+16,50,219.54,2.3,Rio de Janeiro,RJ
+17,8,218.15,2.5,Aracaju,DF
+18,40,220.06,2.2,Florianopolis,SC
+19,31,230.55,2.8,Recife,PE
+20,25,219.42,2.5,Florianopolis,RJ
+21,53,191.39,2.5,Campo Grande,MS
+22,47,204.02,2.6,Sao Paulo,SP
+23,39,229.7,2.4,Florianopolis,SC
+24,11,201.88,3.2,Aracaju,SE
+25,27,195.19,2.6,Campo Grande,MS
+26,27,208.03,2.4,Rio de Janeiro,BH
+27,23,213.73,2.6,Florianopolis,SC
+28,4,162.9,2.2,Sao Paulo,SP
+29,6,236.94,2.3,Florianopolis,SC
+30,4,197.71,3.0,Natal,RN
+31,12,166.85,2.5,Campo Grande,MS
+32,53,212.18,2.5,Florianopolis,SC
+34,39,224.93,2.3,Salvador,BH
+35,12,165.03,2.6,Campo Grande,MS
+36,28,192.04,2.8,Campo Grande,MS
+37,3,177.28,2.7,Aracaju,BH
+38,27,219.58,2.5,Campo Grande,BH
+39,43,214.01,2.7,Florianopolis,RJ
+40,51,206.79,2.4,Rio de Janeiro,RJ
+41,56,210.24,2.5,Campo Grande,MS
+43,34,213.29,2.4,Rio de Janeiro,RJ
+44,31,189.2,2.6,Aracaju,MS
+45,28,180.31,2.4,Rio de Janeiro,RJ
+46,55,230.24,2.6,Florianopolis,SC
+47,41,209.18,2.6,Sao Paulo,SP
+48,14,195.02,2.6,Campo Grande,MS
+49,49,207.43,2.4,Sao Paulo,SP
+50,31,190.28,2.5,Campo Grande,MS
+51,2,190.99,3.0,Natal,RN
+52,52,207.51,2.4,Salvador,BH
+53,7,224.52,2.4,Natal,RN
+54,29,225.67,2.7,Natal,RN
+55,50,219.61,2.2,Rio de Janeiro,RJ
+56,51,209.56,2.7,Florianopolis,RJ
+57,11,227.73,2.7,Florianopolis,RJ
+58,7,238.15,2.6,Brasilia,DF
+59,8,239.28,2.2,Natal,PE
+60,53,185.04,2.0,Campo Grande,MS
+61,58,211.06,2.5,Brasilia,DF
+62,35,238.41,2.3,Natal,RN
+63,47,224.22,2.2,Salvador,BH
+64,58,208.44,2.6,Salvador,BH
+65,41,219.45,2.7,Florianopolis,SC
+66,19,218.1,2.3,Natal,RN
+67,45,223.07,2.6,Salvador,BH
+68,45,223.21,2.1,Sao Paulo,SP
+69,32,207.18,2.5,Aracaju,RN
+70,45,215.97,2.5,Natal,RN
+71,10,227.37,2.1,Florianopolis,PE
+72,31,218.94,2.3,Brasilia,DF
+73,39,205.12,2.4,Rio de Janeiro,RJ
+74,7,189.54,1.7,Campo Grande,MS
+75,40,204.59,2.6,Natal,RN
+76,6,206.49,2.3,Natal,BH
+77,26,208.39,2.7,Natal,RN
+78,21,210.14,2.5,Rio de Janeiro,RJ
+79,24,243.54,2.5,Salvador,BH
+80,8,235.56,2.6,Florianopolis,SC
+81,27,219.07,2.5,Natal,RN
+82,53,217.13,2.5,Salvador,BH
+83,39,209.95,2.5,Florianopolis,SC
+84,27,221.15,2.4,Brasilia,DF
+85,2,288.12,4.0,Recife,BH
+86,4,240.79,2.8,Brasilia,BH
+87,3,158.82,3.0,Aracaju,SE
+88,6,219.64,2.2,Florianopolis,SC
+89,12,233.44,2.8,Florianopolis,BH
+90,61,215.44,2.6,Campo Grande,BH
+91,23,204.75,2.8,Campo Grande,MS
+92,8,203.16,2.5,Rio de Janeiro,RJ
+93,65,209.69,2.4,Rio de Janeiro,RJ
+94,61,216.24,2.7,Florianopolis,SC
+95,37,208.02,2.8,Rio de Janeiro,RJ
+96,30,216.42,2.5,Natal,RN
+97,39,192.3,2.7,Campo Grande,MS
+98,7,212.81,1.1,Rio de Janeiro,RJ
+99,7,194.76,2.6,Campo Grande,MS
+100,36,232.47,2.4,Salvador,BH
+101,18,214.24,2.4,Salvador,BH
+102,7,259.86,1.9,Recife,PE
+103,26,190.81,2.4,Campo Grande,MS
+104,44,212.92,2.2,Aracaju,RJ
+105,68,206.37,2.4,Campo Grande,MS
+106,54,219.15,2.6,Rio de Janeiro,RJ
+107,43,207.61,2.7,Campo Grande,MS
+108,14,172.46,2.5,Campo Grande,BH
+109,50,216.84,2.4,Aracaju,RN
+110,37,221.72,2.1,Brasilia,BH
+111,60,228.77,2.6,Recife,PE
+112,62,219.19,2.7,Salvador,BH
+113,44,235.87,2.6,Florianopolis,SC
+114,11,212.97,2.5,Florianopolis,SC
+115,63,222.02,2.7,Natal,RN
+116,33,214.13,2.8,Sao Paulo,SP
+117,39,205.73,2.7,Campo Grande,MS
+118,32,207.13,2.5,Rio de Janeiro,RJ
+119,55,233.46,2.1,Natal,RN
+120,54,214.12,2.7,Florianopolis,SC
+121,15,221.89,2.7,Rio de Janeiro,RJ
+122,21,200.11,2.5,Rio de Janeiro,RJ
+123,10,206.79,2.3,Rio de Janeiro,RJ
+124,22,221.66,2.9,Aracaju,BH
+125,10,231.28,2.2,Natal,RN
+126,64,215.1,2.7,Rio de Janeiro,RJ
+127,37,219.52,2.6,Rio de Janeiro,RJ
+129,53,206.48,2.6,Salvador,BH
+130,2,255.52,2.5,Brasilia,BH
+131,29,214.26,2.9,Aracaju,RJ
+132,20,196.55,2.4,Sao Paulo,SP
+133,27,225.11,2.6,Rio de Janeiro,RJ
+134,41,208.2,2.4,Rio de Janeiro,RJ
+135,28,212.0,2.4,Florianopolis,RJ
+136,5,174.72,2.2,Rio de Janeiro,RJ
+137,37,218.62,2.4,Brasilia,DF
+138,11,232.54,2.5,Florianopolis,SC
+139,31,231.35,2.5,Florianopolis,BH
+140,36,206.19,2.2,Natal,RN
+141,11,222.7,2.4,Rio de Janeiro,RJ
+142,12,193.4,2.2,Campo Grande,MS
+143,15,205.61,2.3,Florianopolis,SC
+144,9,185.02,3.0,Campo Grande,MS
+145,47,223.78,2.5,Brasilia,DF
+146,57,231.77,2.5,Florianopolis,SC
+147,9,184.38,1.7,Rio de Janeiro,RJ
+148,47,209.45,2.7,Rio de Janeiro,RJ
+149,59,208.44,2.6,Sao Paulo,SP
+150,7,201.34,2.7,Natal,RN
+151,22,199.52,2.6,Sao Paulo,SP
+152,51,187.78,2.5,Sao Paulo,SP
+153,28,238.52,2.6,Salvador,BH
+154,8,223.2,2.5,Sao Paulo,SP
+155,55,213.29,2.7,Florianopolis,SC
+156,40,211.32,2.7,Natal,RN
+157,51,222.38,2.3,Florianopolis,BH
+158,64,220.88,2.6,Florianopolis,SC
+159,9,169.57,2.2,Campo Grande,MS
+160,13,189.92,2.5,Rio de Janeiro,RJ
+161,44,221.08,2.4,Salvador,BH
+162,34,201.93,2.6,Rio de Janeiro,RJ
+163,22,232.78,2.7,Florianopolis,BH
+164,10,175.81,2.6,Campo Grande,MS
+165,9,248.95,2.0,Natal,PE
+166,46,209.52,2.5,Sao Paulo,SP
+167,5,282.06,2.2,Florianopolis,SC
+168,58,210.2,2.6,Rio de Janeiro,RJ
+169,33,200.72,2.5,Sao Paulo,SP
+170,33,213.15,2.7,Sao Paulo,SP
+171,26,199.98,2.5,Campo Grande,BH
+172,3,179.74,2.0,Campo Grande,MS
+173,23,232.96,2.3,Natal,RN
+174,61,211.92,2.4,Sao Paulo,SP
+175,41,217.35,2.6,Natal,RN
+176,47,222.19,2.4,Salvador,BH
+177,42,220.93,2.7,Natal,RN
+178,54,209.4,2.6,Rio de Janeiro,RJ
+179,25,217.99,2.3,Florianopolis,SC
+180,41,194.1,2.7,Campo Grande,MS
+181,22,172.47,2.4,Rio de Janeiro,RJ
+182,41,218.5,2.7,Recife,PE
+183,54,201.77,2.3,Campo Grande,MS
+184,12,176.27,1.8,Campo Grande,MS
+185,34,206.78,2.6,Salvador,BH
+186,53,208.95,2.6,Campo Grande,BH
+187,47,209.01,2.3,Rio de Janeiro,RJ
+188,36,208.39,2.6,Campo Grande,MS
+189,50,222.88,2.5,Rio de Janeiro,RJ
+190,9,199.62,3.0,Sao Paulo,SP
+191,48,220.64,2.4,Rio de Janeiro,RJ
+192,13,187.95,2.7,Aracaju,SE
+193,57,215.85,2.5,Florianopolis,SC
+194,54,232.14,2.6,Florianopolis,SC
+195,58,203.89,2.2,Campo Grande,MS
+196,29,213.18,2.4,Florianopolis,SC
+197,24,195.26,2.7,Campo Grande,MS
+198,3,267.84,2.3,Brasilia,DF
+199,21,219.3,2.9,Rio de Janeiro,BH
+200,3,198.46,3.0,Rio de Janeiro,RJ
+201,5,266.07,3.0,Salvador,BH
+202,10,243.05,2.8,Aracaju,RN
+203,43,222.87,2.3,Recife,PE
+204,35,220.01,2.5,Natal,RN
+205,17,221.27,2.5,Recife,PE
+206,43,200.24,2.7,Sao Paulo,SP
+207,35,209.89,2.2,Campo Grande,MS
+208,43,221.89,2.5,Florianopolis,SC
+209,32,224.95,2.7,Natal,RN
+210,46,195.13,2.5,Campo Grande,MS
+211,16,199.02,2.6,Natal,RN
+212,52,217.97,2.6,Aracaju,SE
+213,27,219.41,2.6,Aracaju,PE
+214,7,252.12,2.3,Florianopolis,PE
+215,13,173.16,2.8,Sao Paulo,SP
+216,45,211.18,2.5,Natal,RJ
+217,13,191.42,2.8,Rio de Janeiro,RJ
+218,24,217.23,2.6,Natal,RN
+219,54,199.74,2.6,Natal,RN
+220,67,220.6,2.4,Rio de Janeiro,RJ
+221,8,185.7,2.1,Brasilia,DF
+222,52,207.73,2.4,Natal,RN
+223,52,189.2,2.6,Campo Grande,MS
+224,36,187.91,2.3,Campo Grande,MS
+225,2,312.92,2.5,Florianopolis,PE
+226,24,187.1,2.0,Rio de Janeiro,RJ
+227,13,215.14,3.2,Sao Paulo,SP
+228,46,202.78,2.3,Campo Grande,BH
+229,38,206.82,2.6,Campo Grande,MS
+230,43,224.42,2.7,Rio de Janeiro,RJ
+231,29,214.44,2.7,Natal,RJ
+232,11,225.45,2.6,Salvador,BH
+233,23,183.8,2.8,Sao Paulo,SP
+234,52,219.37,2.5,Florianopolis,SC
+235,1,165.99,4.0,Rio de Janeiro,RJ
+236,45,206.42,2.6,Campo Grande,MS
+237,59,197.82,2.6,Campo Grande,MS
+238,16,201.11,2.2,Aracaju,SE
+239,45,186.06,2.4,Campo Grande,MS
+240,22,203.93,2.7,Rio de Janeiro,RJ
+241,64,212.81,2.2,Florianopolis,SC
+242,62,225.21,2.8,Florianopolis,SC
+243,50,213.85,2.6,Natal,RN
+244,36,212.36,2.7,Florianopolis,SC
+245,49,220.77,2.7,Sao Paulo,SP
+246,30,217.63,2.7,Florianopolis,RJ
+247,46,218.85,2.5,Sao Paulo,SP
+248,40,211.61,2.3,Rio de Janeiro,RJ
+249,15,181.74,2.3,Campo Grande,MS
+250,43,212.4,2.6,Salvador,BH
+251,69,212.8,2.4,Florianopolis,SC
+252,11,257.16,3.3,Salvador,BH
+253,20,238.18,2.5,Salvador,BH
+254,51,215.43,2.6,Natal,RJ
+255,7,157.56,2.3,Campo Grande,MS
+256,23,228.07,2.3,Salvador,BH
+257,7,193.97,3.0,Aracaju,SE
+258,45,208.64,2.4,Campo Grande,MS
+259,25,192.76,2.3,Rio de Janeiro,RJ
+260,41,203.19,2.3,Campo Grande,MS
+261,36,238.78,2.4,Salvador,BH
+262,37,234.12,2.5,Florianopolis,SC
+263,28,231.41,2.4,Recife,PE
+264,62,206.95,2.5,Campo Grande,MS
+265,27,204.3,2.5,Sao Paulo,SP
+266,45,213.09,2.5,Natal,RN
+267,35,218.26,2.7,Natal,RN
+268,57,223.79,2.7,Florianopolis,SC
+269,24,238.28,2.5,Natal,RN
+270,1,165.99,1.0,Rio de Janeiro,RJ
+271,55,217.46,2.6,Recife,BH
+272,16,188.36,2.8,Aracaju,BH
+273,42,212.67,2.5,Aracaju,RJ
+274,62,201.25,2.6,Campo Grande,MS
+275,20,215.93,2.4,Florianopolis,RJ
+276,44,216.92,2.2,Natal,RN
+277,8,192.01,2.0,Campo Grande,MS
+278,17,207.49,2.7,Florianopolis,SC
+279,29,210.71,2.8,Florianopolis,RN
+280,29,217.62,2.6,Aracaju,RN
+281,58,220.29,2.4,Brasilia,DF
+282,22,203.67,2.3,Florianopolis,SC
+283,19,238.38,2.6,Florianopolis,BH
+284,51,193.28,2.6,Campo Grande,BH
+285,26,208.03,2.6,Campo Grande,MS
+286,6,206.69,2.7,Sao Paulo,SP
+287,58,208.02,2.3,Salvador,BH
+288,35,223.47,2.5,Sao Paulo,SP
+289,39,209.41,2.2,Aracaju,SE
+290,46,204.37,2.4,Natal,RN
+291,15,220.14,2.5,Florianopolis,SC
+292,29,200.97,2.8,Campo Grande,BH
+293,25,225.84,2.4,Sao Paulo,SP
+294,19,227.68,2.4,Natal,RN
+295,24,195.54,2.8,Campo Grande,MS
+296,46,209.35,2.5,Florianopolis,SC
+297,30,186.23,2.4,Campo Grande,MS
+299,21,198.65,2.7,Natal,RN
+300,49,206.86,2.6,Campo Grande,MS
+301,40,209.87,2.3,Sao Paulo,SP
+302,10,195.24,2.8,Campo Grande,BH
+303,5,252.04,2.6,Natal,BH
+304,41,239.75,2.3,Florianopolis,SC
+305,10,228.73,2.3,Florianopolis,SC
+306,24,161.62,2.6,Campo Grande,MS
+307,50,235.38,2.6,Natal,RN
+308,48,227.24,2.6,Florianopolis,RN
+309,21,203.3,2.7,Aracaju,RN
+310,15,227.94,2.8,Natal,RN
+311,2,214.7,1.5,Rio de Janeiro,BH
+312,51,204.5,2.4,Rio de Janeiro,RJ
+313,10,204.16,2.8,Salvador,BH
+314,53,222.25,2.4,Recife,PE
+316,14,182.13,2.3,Sao Paulo,SP
+317,37,229.79,2.3,Florianopolis,SC
+318,19,201.78,2.8,Aracaju,SC
+319,36,205.0,2.2,Campo Grande,MS
+320,13,181.38,2.5,Campo Grande,MS
+321,45,209.2,2.4,Campo Grande,MS
+322,67,216.92,2.7,Florianopolis,SC
+323,51,232.57,2.3,Florianopolis,SC
+324,12,205.32,2.9,Aracaju,SE
+325,41,208.31,2.6,Salvador,BH
+326,55,208.89,2.5,Florianopolis,SC
+327,19,180.09,2.3,Campo Grande,MS
+328,51,228.11,2.8,Florianopolis,SC
+329,60,213.58,2.3,Rio de Janeiro,RJ
+330,43,214.14,2.5,Salvador,BH
+331,40,203.91,2.8,Campo Grande,MS
+332,13,240.56,2.4,Florianopolis,SC
+333,5,216.23,1.8,Natal,RJ
+334,4,150.5,2.8,Sao Paulo,SP
+335,28,182.03,3.0,Sao Paulo,SP
+336,25,211.49,2.6,Florianopolis,SC
+337,59,194.18,2.4,Campo Grande,MS
+338,55,197.26,2.8,Sao Paulo,SP
+339,27,211.08,2.7,Rio de Janeiro,RJ
+340,7,180.69,2.3,Natal,RJ
+341,57,232.14,2.4,Florianopolis,SC
+342,45,214.95,2.6,Salvador,BH
+343,43,194.53,2.6,Sao Paulo,SP
+344,26,207.32,2.7,Rio de Janeiro,RJ
+345,30,201.61,2.3,Campo Grande,MS
+346,34,207.46,2.8,Natal,RN
+347,5,224.88,2.4,Florianopolis,BH
+348,45,216.52,2.6,Campo Grande,BH
+349,51,209.62,2.5,Campo Grande,MS
+350,9,228.15,2.2,Rio de Janeiro,RJ
+351,30,199.47,2.8,Campo Grande,MS
+352,60,200.92,2.4,Sao Paulo,SP
+353,16,240.48,2.2,Brasilia,DF
+354,36,211.76,2.5,Salvador,BH
+355,50,191.1,2.6,Campo Grande,MS
+356,35,219.54,2.4,Aracaju,SE
+357,55,217.39,2.7,Florianopolis,SC
+358,8,244.51,2.5,Recife,PE
+359,25,256.28,2.8,Recife,PE
+360,11,216.32,2.7,Salvador,BH
+362,59,218.96,2.5,Brasilia,DF
+363,30,224.06,2.3,Florianopolis,SC
+365,10,218.72,2.5,Recife,PE
+366,17,193.58,2.0,Campo Grande,MS
+367,8,167.4,2.1,Campo Grande,MS
+368,54,214.82,2.5,Salvador,BH
+369,48,208.9,2.2,Salvador,BH
+370,25,208.79,2.8,Florianopolis,SC
+371,57,213.89,2.7,Natal,BH
+372,57,200.53,2.4,Campo Grande,BH
+373,8,258.75,1.9,Natal,RN
+374,2,253.14,3.5,Natal,BH
+375,24,214.07,2.8,Brasilia,DF
+376,14,205.58,3.0,Sao Paulo,SP
+377,2,312.83,3.0,Recife,PE
+378,36,209.0,2.6,Natal,RN
+379,26,218.4,2.4,Aracaju,RJ
+380,7,149.87,2.3,Sao Paulo,SP
+381,58,230.04,2.2,Florianopolis,PE
+383,42,224.37,2.5,Rio de Janeiro,BH
+384,57,207.53,2.6,Rio de Janeiro,RJ
+386,14,212.08,2.6,Salvador,BH
+387,55,239.1,2.7,Brasilia,DF
+388,42,216.0,2.4,Rio de Janeiro,RJ
+389,67,221.62,2.5,Florianopolis,SC
+390,54,218.54,2.8,Natal,RN
+391,31,221.26,2.9,Florianopolis,BH
+392,16,228.24,2.4,Salvador,BH
+393,12,178.2,2.1,Rio de Janeiro,RJ
+394,7,263.64,2.1,Aracaju,SC
+395,26,216.69,2.5,Florianopolis,SC
+396,40,207.46,2.5,Sao Paulo,SP
+397,8,182.52,2.8,Sao Paulo,SP
+398,27,209.49,2.2,Salvador,BH
+399,2,288.12,3.5,Recife,BH
+400,44,190.3,2.5,Rio de Janeiro,RJ
+401,17,236.4,2.6,Salvador,BH
+402,43,208.95,2.4,Rio de Janeiro,RJ
+403,18,214.26,2.2,Salvador,BH
+404,10,218.37,2.3,Aracaju,RJ
+405,3,312.89,3.3,Recife,PE
+406,1,263.41,2.0,Salvador,BH
+407,54,221.44,2.6,Salvador,BH
+408,33,210.17,2.6,Natal,RN
+409,29,212.99,2.7,Florianopolis,SC
+410,22,211.1,2.4,Salvador,BH
+411,18,192.53,2.6,Campo Grande,BH
+412,61,207.89,2.3,Rio de Janeiro,RJ
+413,4,246.28,3.2,Natal,BH
+414,23,196.53,2.7,Aracaju,SE
+415,48,221.88,2.7,Florianopolis,SC
+416,43,209.57,2.1,Campo Grande,MS
+417,21,203.74,2.2,Sao Paulo,SP
+418,18,184.65,2.6,Campo Grande,MS
+419,38,229.37,2.5,Florianopolis,SC
+420,8,273.4,2.5,Recife,PE
+421,2,190.99,3.0,Natal,RN
+422,58,205.78,2.3,Sao Paulo,SP
+423,26,192.1,3.0,Campo Grande,MS
+424,11,218.78,3.2,Salvador,BH
+425,43,189.45,2.4,Rio de Janeiro,RJ
+426,19,207.79,2.2,Rio de Janeiro,BH
+427,3,185.21,2.7,Brasilia,DF
+428,34,224.22,2.4,Rio de Janeiro,RJ
+429,22,183.94,2.5,Campo Grande,MS
+430,55,219.83,2.6,Salvador,BH
+431,37,245.55,2.3,Florianopolis,SC
+432,53,200.32,2.5,Campo Grande,MS
+433,27,238.68,2.6,Florianopolis,SC
+434,55,220.71,2.5,Sao Paulo,SP
+435,23,195.69,2.5,Rio de Janeiro,RJ
+436,73,206.09,2.6,Campo Grande,MS
+437,20,220.72,2.5,Sao Paulo,SP
+438,12,206.83,2.8,Natal,RN
+439,23,222.46,2.6,Rio de Janeiro,RJ
+440,43,198.76,2.7,Rio de Janeiro,RJ
+441,46,216.77,2.3,Florianopolis,SC
+442,48,218.89,2.8,Florianopolis,BH
+443,6,264.86,1.7,Florianopolis,SC
+444,5,223.61,2.2,Salvador,BH
+445,58,209.24,2.5,Sao Paulo,SP
+446,3,296.42,2.3,Florianopolis,BH
+447,52,190.59,2.6,Campo Grande,MS
+448,59,217.3,2.5,Florianopolis,RN
+449,29,232.35,2.6,Florianopolis,SC
+450,39,203.21,2.3,Campo Grande,MS
+451,23,210.98,3.1,Campo Grande,MS
+452,36,212.69,2.6,Sao Paulo,SP
+453,45,237.07,2.7,Natal,BH
+454,65,227.6,2.5,Natal,RN
+455,51,245.0,2.5,Brasilia,DF
+456,34,230.52,2.4,Recife,PE
+457,15,258.23,3.1,Recife,PE
+458,31,235.13,2.5,Aracaju,SE
+459,34,235.28,2.2,Natal,BH
+460,32,248.41,2.5,Recife,PE
+461,51,230.76,2.3,Natal,RN
+462,49,229.4,2.7,Rio de Janeiro,RJ
+464,16,250.0,2.4,Natal,RN
+465,27,238.93,2.0,Brasilia,DF
+466,13,237.8,2.5,Salvador,BH
+467,3,240.57,1.3,Natal,PE
+468,3,264.01,3.3,Florianopolis,SC
+469,27,233.06,2.6,Aracaju,RJ
+470,17,228.44,2.5,Salvador,BH
+471,10,217.17,2.3,Brasilia,DF
+472,25,211.62,2.1,Sao Paulo,SP
+473,1,208.04,1.0,Aracaju,SE
+474,21,233.46,2.4,Sao Paulo,SP
+475,14,237.48,2.1,Florianopolis,BH
+476,5,198.43,1.8,Rio de Janeiro,RJ
+477,36,240.47,2.7,Recife,PE
+478,54,223.13,2.5,Sao Paulo,SP
+479,37,239.23,2.4,Florianopolis,SC
+480,28,228.5,2.9,Sao Paulo,SP
+481,14,247.64,2.3,Aracaju,SE
+482,49,240.53,2.5,Florianopolis,SC
+483,60,238.97,2.2,Natal,RN
+484,26,231.96,2.4,Aracaju,SE
+485,53,239.75,2.7,Aracaju,SC
+486,50,231.62,2.2,Sao Paulo,SP
+487,45,236.16,2.6,Recife,PE
+488,30,205.71,2.3,Sao Paulo,SP
+489,26,265.97,2.5,Recife,PE
+490,43,231.84,2.5,Recife,PE
+491,50,242.04,2.5,Recife,PE
+492,45,250.37,2.5,Florianopolis,SC
+493,42,241.2,2.6,Recife,PE
+494,3,234.43,2.3,Brasilia,DF
+495,13,214.17,2.7,Sao Paulo,SP
+496,13,257.25,2.3,Natal,PE
+497,50,245.2,2.1,Florianopolis,SC
+498,30,227.61,2.6,Sao Paulo,SP
+499,28,232.57,2.3,Aracaju,SE
+500,55,239.59,2.5,Brasilia,DF
+501,30,230.75,2.6,Sao Paulo,SP
+502,56,235.92,2.3,Rio de Janeiro,RJ
+503,25,247.18,2.8,Aracaju,SE
+504,55,238.36,2.4,Recife,PE
+505,52,242.32,2.8,Recife,PE
+506,10,240.72,2.0,Recife,PE
+507,40,229.9,2.5,Sao Paulo,SP
+508,9,235.13,3.0,Rio de Janeiro,RJ
+509,40,228.17,2.7,Natal,RN
+510,25,249.9,2.1,Florianopolis,SC
+511,38,244.05,2.7,Natal,RN
+512,57,226.13,2.2,Aracaju,SE
+513,22,242.2,2.6,Florianopolis,SC
+514,50,244.32,2.4,Florianopolis,SC
+515,32,234.79,2.5,Brasilia,DF
+516,56,226.85,2.5,Salvador,BH
+517,46,235.98,2.5,Recife,PE
+518,21,221.65,2.5,Rio de Janeiro,RJ
+519,24,255.89,1.9,Salvador,BH
+520,2,225.96,1.5,Recife,PE
+521,49,234.9,2.5,Brasilia,DF
+522,27,252.24,2.8,Recife,PE
+523,27,251.85,2.8,Recife,PE
+524,11,231.07,3.4,Brasilia,DF
+525,41,242.23,2.4,Florianopolis,PE
+526,9,230.21,2.0,Salvador,BH
+528,7,224.29,2.3,Brasilia,BH
+529,27,199.53,2.4,Rio de Janeiro,RJ
+530,1,312.83,3.0,Recife,PE
+531,3,256.16,3.3,Aracaju,DF
+532,34,235.75,2.6,Salvador,BH
+533,40,231.47,2.7,Salvador,BH
+534,39,225.0,2.6,Brasilia,DF
+535,26,231.62,3.0,Salvador,BH
+536,10,247.39,3.0,Brasilia,BH
+537,26,238.18,2.3,Brasilia,DF
+538,14,234.32,2.4,Recife,PE
+539,37,235.68,2.9,Salvador,BH
+540,49,224.72,2.5,Aracaju,SE
+541,44,245.93,2.6,Natal,RN
+542,32,229.03,2.2,Sao Paulo,SP
+543,28,236.83,2.5,Brasilia,DF
+544,60,252.38,2.6,Brasilia,DF
+545,59,230.55,2.8,Aracaju,SE
+546,27,221.54,2.1,Natal,RN
+547,4,270.33,2.5,Recife,PE
+548,16,235.85,3.2,Brasilia,DF
+549,42,233.82,2.1,Recife,PE
+550,21,226.86,2.8,Natal,RN
+551,13,233.21,3.2,Recife,PE
+552,62,252.54,2.5,Recife,PE
+553,55,248.33,2.5,Florianopolis,SC
+554,39,243.39,2.6,Recife,PE
+555,11,233.2,2.9,Natal,BH
+556,11,249.96,2.5,Salvador,BH
+557,40,228.88,2.6,Sao Paulo,SP
+558,30,236.46,2.5,Aracaju,SE
+559,26,233.44,2.2,Brasilia,DF
+560,26,235.17,2.7,Natal,RN
+561,34,243.81,2.4,Brasilia,DF
+562,27,220.99,2.3,Brasilia,DF
+563,21,246.92,2.4,Brasilia,DF
+564,12,218.77,2.2,Natal,RN
+565,32,223.1,2.4,Rio de Janeiro,RJ
+566,19,256.74,2.7,Recife,PE
+567,27,221.08,2.7,Rio de Janeiro,RJ
+568,29,244.63,2.6,Recife,PE
+569,15,211.43,2.6,Sao Paulo,SP
+570,29,239.6,2.7,Florianopolis,PE
+571,56,238.26,2.3,Aracaju,SE
+572,46,243.63,2.3,Florianopolis,SC
+573,65,239.08,2.5,Aracaju,SE
+574,37,230.79,2.5,Brasilia,DF
+575,67,239.91,2.3,Brasilia,DF
+576,28,234.66,2.6,Brasilia,DF
+577,22,227.6,2.5,Aracaju,SE
+578,45,233.74,2.6,Florianopolis,RJ
+579,5,228.13,2.8,Brasilia,DF
+580,50,235.64,2.3,Aracaju,SE
+581,36,237.47,2.3,Recife,BH
+582,48,230.99,2.3,Rio de Janeiro,RJ
+583,46,222.63,2.4,Sao Paulo,SP
+584,58,242.82,2.5,Recife,PE
+585,15,251.45,2.4,Florianopolis,SC
+586,32,232.42,2.9,Aracaju,SE
+587,62,231.89,2.6,Natal,RJ
+589,17,235.67,2.0,Sao Paulo,SP
+590,3,221.97,1.0,Salvador,BH
+591,16,233.94,2.1,Natal,RN
+592,1,313.02,2.0,Florianopolis,SC
+593,10,232.26,1.8,Salvador,BH
+594,15,223.46,2.5,Rio de Janeiro,RJ
+596,26,245.61,2.3,Aracaju,PE
+597,9,222.02,2.8,Natal,RN
+598,10,244.64,2.8,Salvador,BH
+599,60,234.78,2.5,Brasilia,DF
+600,17,236.68,2.3,Aracaju,SE
+601,67,233.8,2.4,Sao Paulo,SP
+602,8,262.48,2.9,Brasilia,BH
+603,39,227.8,2.6,Rio de Janeiro,RJ
+604,29,240.99,2.6,Salvador,BH
+605,35,251.56,2.4,Recife,PE
+606,34,236.37,2.4,Salvador,BH
+607,55,240.12,2.3,Natal,RN
+608,36,237.38,2.9,Aracaju,RN
+609,6,226.62,2.2,Natal,BH
+610,16,226.99,2.8,Rio de Janeiro,RJ
+611,53,248.09,2.6,Florianopolis,SC
+612,56,226.46,2.5,Sao Paulo,SP
+613,35,236.06,2.6,Aracaju,SE
+614,20,227.46,2.7,Rio de Janeiro,RJ
+615,27,247.53,2.6,Salvador,BH
+616,46,236.57,2.7,Rio de Janeiro,RJ
+617,38,235.9,2.4,Aracaju,SE
+618,19,246.12,2.3,Recife,PE
+619,45,245.42,2.3,Brasilia,DF
+620,11,216.49,1.9,Brasilia,DF
+621,20,236.04,2.0,Natal,BH
+622,38,233.56,2.6,Brasilia,DF
+623,47,249.39,2.5,Brasilia,DF
+624,5,231.28,2.2,Salvador,BH
+625,48,231.25,2.5,Sao Paulo,SP
+626,20,244.05,2.5,Salvador,BH
+627,23,255.16,2.2,Florianopolis,SC
+628,2,206.8,3.0,Brasilia,DF
+629,24,252.46,2.6,Florianopolis,SC
+630,27,211.48,2.7,Sao Paulo,SP
+631,25,236.57,2.4,Brasilia,DF
+632,47,238.24,2.4,Brasilia,DF
+633,51,243.46,2.3,Florianopolis,SC
+634,49,237.69,2.5,Aracaju,DF
+635,31,242.94,2.1,Florianopolis,SC
+636,35,243.24,2.6,Natal,RN
+637,2,214.7,3.5,Rio de Janeiro,BH
+638,37,225.09,2.4,Sao Paulo,SP
+639,16,257.25,2.0,Salvador,BH
+640,44,236.43,2.6,Salvador,BH
+641,57,238.37,2.5,Brasilia,DF
+642,50,218.91,2.2,Sao Paulo,SP
+643,28,240.99,2.5,Rio de Janeiro,RJ
+644,1,165.99,3.0,Rio de Janeiro,RJ
+645,45,237.4,2.6,Recife,PE
+646,62,243.81,2.3,Salvador,BH
+648,28,204.87,2.5,Brasilia,DF
+649,7,240.46,2.0,Florianopolis,RN
+650,62,195.82,2.6,Campo Grande,MS
+651,45,224.79,2.5,Florianopolis,RJ
+652,56,239.68,2.6,Florianopolis,SC
+653,17,228.3,2.2,Rio de Janeiro,RJ
+654,27,202.43,2.8,Salvador,BH
+655,40,218.12,2.5,Natal,RN
+656,22,235.2,2.3,Florianopolis,SC
+657,13,183.47,2.2,Aracaju,SE
+658,34,235.87,2.5,Brasilia,DF
+659,45,219.49,2.4,Florianopolis,SC
+660,21,215.08,2.9,Rio de Janeiro,RJ
+661,32,204.43,2.3,Campo Grande,MS
+662,42,215.12,2.4,Brasilia,DF
+663,14,185.08,2.8,Campo Grande,MS
+664,45,222.47,2.8,Rio de Janeiro,RJ
+665,29,200.48,2.4,Rio de Janeiro,RJ
+666,48,201.97,2.7,Rio de Janeiro,RJ
+667,13,220.34,2.2,Brasilia,BH
+668,33,225.46,2.5,Recife,PE
+669,39,186.86,2.9,Campo Grande,MS
+671,41,229.01,2.5,Brasilia,DF
+672,14,220.37,2.4,Recife,PE
+673,39,230.86,2.5,Salvador,BH
+674,45,231.59,2.4,Florianopolis,SC
+675,23,233.88,2.6,Recife,PE
+676,25,210.72,2.8,Brasilia,DF
+677,48,214.82,2.4,Brasilia,DF
+678,54,202.52,2.7,Brasilia,DF
+679,9,254.17,2.6,Brasilia,DF
+680,38,212.69,2.4,Aracaju,SE
+681,1,60.39,4.0,Campo Grande,MS
+682,3,232.85,1.7,Aracaju,DF
+683,51,240.75,2.6,Recife,PE
+684,54,217.05,2.7,Aracaju,DF
+685,29,202.18,2.5,Rio de Janeiro,RJ
+686,25,212.77,2.3,Brasilia,BH
+687,15,266.78,2.5,Recife,PE
+688,25,215.36,2.2,Salvador,BH
+689,24,206.35,2.8,Campo Grande,BH
+690,48,220.49,2.4,Rio de Janeiro,RJ
+691,13,248.16,2.3,Recife,PE
+692,1,312.83,1.0,Recife,PE
+693,54,210.44,2.4,Recife,PE
+694,20,225.8,2.5,Recife,PE
+695,24,226.81,2.0,Salvador,BH
+696,49,206.66,2.4,Sao Paulo,SP
+697,7,194.0,3.3,Aracaju,SE
+698,20,226.46,2.6,Rio de Janeiro,RJ
+699,14,216.41,2.9,Natal,BH
+700,22,225.98,2.6,Natal,RN
+701,27,215.01,2.3,Campo Grande,BH
+702,38,209.81,2.6,Campo Grande,MS
+703,27,255.84,2.4,Recife,PE
+704,3,274.68,3.0,Brasilia,BH
+705,49,214.13,2.5,Brasilia,DF
+706,25,222.82,2.0,Brasilia,DF
+707,42,216.45,2.5,Brasilia,DF
+708,37,248.05,2.6,Recife,PE
+709,16,183.33,2.2,Rio de Janeiro,RJ
+710,53,234.62,2.6,Aracaju,BH
+711,35,216.03,2.5,Brasilia,DF
+712,29,198.84,2.5,Campo Grande,MS
+713,26,240.36,2.7,Florianopolis,SC
+714,51,231.43,2.5,Florianopolis,SC
+715,49,232.72,2.5,Salvador,BH
+716,32,187.41,2.5,Campo Grande,MS
+717,23,219.47,2.4,Florianopolis,RN
+718,41,197.9,2.3,Campo Grande,MS
+719,30,215.11,2.6,Sao Paulo,SP
+721,16,188.49,2.8,Campo Grande,MS
+722,28,219.27,2.5,Natal,RN
+723,29,218.56,2.2,Florianopolis,SC
+724,31,197.36,2.5,Campo Grande,MS
+725,20,215.02,2.3,Campo Grande,BH
+726,25,200.56,2.6,Aracaju,MS
+727,61,223.27,2.2,Rio de Janeiro,RJ
+728,8,155.39,2.5,Campo Grande,MS
+729,24,210.46,2.4,Salvador,BH
+730,36,223.64,2.6,Salvador,BH
+731,43,201.97,2.5,Campo Grande,MS
+732,21,232.24,2.9,Salvador,BH
+733,18,225.86,2.4,Natal,BH
+734,1,312.83,4.0,Recife,PE
+735,28,217.68,2.6,Aracaju,RJ
+736,25,204.91,2.5,Campo Grande,MS
+737,46,239.66,2.5,Recife,PE
+738,27,190.55,2.7,Campo Grande,MS
+739,29,243.92,2.5,Recife,PE
+740,14,206.62,2.2,Brasilia,DF
+741,22,209.95,2.5,Rio de Janeiro,RJ
+742,47,206.92,2.6,Rio de Janeiro,RJ
+743,37,214.62,2.5,Recife,PE
+744,49,230.15,2.6,Florianopolis,SC
+745,37,233.45,2.5,Brasilia,DF
+746,47,229.45,2.2,Recife,PE
+747,53,222.11,2.4,Recife,PE
+748,23,216.35,2.7,Florianopolis,RN
+749,15,231.66,2.5,Salvador,BH
+750,17,191.66,2.4,Campo Grande,MS
+751,32,223.04,2.3,Campo Grande,BH
+752,56,203.7,2.3,Campo Grande,MS
+753,8,220.1,2.1,Recife,BH
+754,21,204.24,2.2,Natal,RN
+755,46,219.4,2.6,Brasilia,DF
+756,46,224.76,2.6,Aracaju,DF
+757,60,231.72,2.5,Brasilia,DF
+758,25,216.99,2.2,Salvador,BH
+759,9,208.4,2.0,Campo Grande,MS
+760,44,188.84,2.6,Campo Grande,MS
+761,31,217.35,2.3,Brasilia,DF
+762,13,209.67,2.5,Rio de Janeiro,RJ
+763,46,221.67,2.4,Brasilia,BH
+764,8,255.94,2.2,Natal,RN
+765,37,229.63,2.6,Salvador,BH
+766,55,198.87,2.5,Campo Grande,MS
+767,6,146.62,3.2,Campo Grande,MS
+768,7,219.01,2.6,Natal,RJ
+769,10,207.72,3.1,Rio de Janeiro,RJ
+770,17,232.88,2.3,Florianopolis,SC
+771,14,220.02,2.7,Recife,PE
+772,46,209.33,2.3,Campo Grande,MS
+773,35,192.4,2.4,Campo Grande,MS
+774,4,210.6,1.8,Brasilia,DF
+775,47,220.81,2.6,Rio de Janeiro,RJ
+776,44,213.52,2.6,Campo Grande,MS
+777,13,226.26,2.6,Salvador,BH
+778,7,228.63,1.9,Salvador,BH
+779,51,222.17,2.4,Brasilia,DF
+780,28,231.16,2.4,Brasilia,DF
+781,25,243.65,2.7,Florianopolis,SC
+782,35,227.47,2.4,Florianopolis,SC
+783,43,206.33,2.4,Brasilia,DF
+784,12,215.62,2.3,Brasilia,DF
+785,14,207.44,2.5,Aracaju,DF
+786,35,244.09,2.2,Recife,PE
+787,37,219.49,2.1,Brasilia,DF
+788,35,221.31,2.6,Salvador,BH
+789,50,219.26,2.5,Brasilia,DF
+790,7,210.19,2.4,Sao Paulo,SP
+791,22,221.72,2.6,Natal,RN
+792,17,217.59,2.5,Rio de Janeiro,RJ
+793,55,215.68,2.4,Florianopolis,SC
+794,31,197.24,2.5,Brasilia,DF
+795,7,220.89,2.7,Florianopolis,RN
+796,52,199.24,2.4,Campo Grande,MS
+797,30,200.52,2.5,Natal,RN
+798,56,230.71,2.7,Florianopolis,PE
+799,40,205.79,3.0,Campo Grande,MS
+800,19,235.61,2.6,Recife,PE
+801,7,185.56,2.1,Aracaju,RJ
+802,28,216.48,2.6,Brasilia,DF
+803,10,213.28,2.8,Aracaju,SE
+804,15,229.68,2.0,Salvador,BH
+805,18,204.28,2.6,Natal,RN
+806,8,219.41,3.2,Florianopolis,SC
+807,1,60.39,3.0,Campo Grande,MS
+808,46,218.8,2.8,Recife,PE
+809,51,206.24,2.6,Rio de Janeiro,RJ
+810,36,206.58,2.7,Brasilia,DF
+811,6,226.55,3.0,Rio de Janeiro,RJ
+812,13,239.09,2.5,Florianopolis,SC
+813,40,230.18,2.5,Recife,PE
+814,61,221.48,2.3,Florianopolis,RN
+815,7,262.35,3.1,Brasilia,DF
+816,13,239.19,2.0,Salvador,BH
+817,14,240.54,2.3,Florianopolis,PE
+818,17,224.22,2.6,Rio de Janeiro,RJ
+819,1,247.62,2.0,Brasilia,DF
+820,62,224.48,2.2,Florianopolis,SC
+821,3,231.6,3.3,Natal,PE
+822,15,216.02,2.4,Salvador,BH
+823,32,209.21,2.3,Brasilia,DF
+824,35,228.81,2.6,Florianopolis,SC
+825,20,228.73,2.6,Salvador,BH
+826,27,226.93,2.6,Rio de Janeiro,RJ
+827,5,283.61,1.8,Florianopolis,SC
+828,43,197.76,2.3,Campo Grande,MS
+829,5,224.02,2.6,Brasilia,DF
+830,39,196.25,2.5,Rio de Janeiro,BH
+831,31,218.9,2.5,Recife,PE
+832,31,228.44,2.5,Brasilia,DF
+833,5,220.09,2.2,Rio de Janeiro,RJ
+834,11,210.8,2.4,Campo Grande,BH
+835,49,210.34,2.6,Brasilia,DF
+836,44,219.34,2.2,Campo Grande,MS
+837,45,217.12,2.5,Salvador,BH
+838,36,197.89,2.7,Rio de Janeiro,RJ
+839,12,233.83,3.0,Florianopolis,BH
+840,18,197.71,2.3,Campo Grande,MS
+841,4,233.67,2.2,Aracaju,DF
+842,6,207.65,3.0,Natal,RN
+843,35,230.52,2.5,Florianopolis,SC
+844,2,239.41,2.5,Recife,PE
+846,49,204.12,2.6,Rio de Janeiro,RJ
+847,40,213.6,2.2,Campo Grande,MS
+848,52,258.46,2.7,Recife,PE
+849,5,247.49,2.4,Brasilia,DF
+850,37,207.91,2.1,Brasilia,DF
+851,15,263.47,2.7,Florianopolis,SC
+852,61,219.19,2.6,Campo Grande,MS
+853,14,212.02,2.8,Campo Grande,MS
+854,5,212.75,2.0,Brasilia,DF
+855,16,233.17,2.1,Florianopolis,SC
+856,48,233.95,2.6,Florianopolis,SC
+857,5,186.94,2.2,Sao Paulo,SP
+858,39,203.24,2.5,Campo Grande,MS
+859,47,208.26,2.5,Campo Grande,MS
+860,25,214.81,2.6,Brasilia,BH
+861,9,159.23,2.0,Campo Grande,MS
+862,26,182.26,2.3,Campo Grande,MS
+864,50,226.11,2.3,Rio de Janeiro,RJ
+865,29,257.09,2.1,Recife,PE
+866,26,195.79,2.5,Sao Paulo,SP
+867,9,183.78,2.7,Campo Grande,MS
+868,39,249.05,2.3,Florianopolis,SC
+869,41,205.23,2.3,Aracaju,SE
+870,24,239.32,2.7,Florianopolis,PE
+871,18,243.91,2.5,Recife,PE
+872,25,230.81,2.6,Salvador,BH
+873,45,229.95,2.4,Salvador,BH
+874,12,213.29,2.6,Brasilia,DF
+875,42,228.89,2.3,Recife,PE
+876,3,273.04,2.3,Natal,BH
+877,26,217.79,2.4,Florianopolis,SC
+878,46,235.52,2.5,Salvador,BH
+879,57,228.26,2.4,Florianopolis,RJ
+880,24,220.95,3.1,Natal,RN
+881,41,247.28,2.6,Recife,PE
+882,64,218.54,2.6,Florianopolis,SC
+884,40,247.87,2.4,Florianopolis,BH
+885,20,197.23,2.6,Aracaju,BH
+886,25,228.72,2.5,Natal,RN
+887,25,214.4,2.7,Natal,RN
+888,47,192.39,2.7,Campo Grande,MS
+889,19,201.3,2.5,Salvador,BH
+890,10,188.94,2.5,Brasilia,DF
+891,40,197.31,2.4,Sao Paulo,SP
+892,13,199.97,2.2,Rio de Janeiro,RJ
+894,16,202.92,2.4,Salvador,BH
+895,37,204.46,2.7,Sao Paulo,SP
+896,52,195.26,2.3,Natal,RN
+897,48,213.5,2.4,Brasilia,DF
+898,60,212.0,2.6,Recife,PE
+899,8,193.76,2.8,Aracaju,SE
+900,66,197.68,2.4,Rio de Janeiro,RJ
+901,8,235.13,2.9,Recife,PE
+902,21,237.27,2.7,Natal,RN
+903,4,234.42,2.2,Natal,RN
+904,38,176.3,2.3,Campo Grande,MS
+905,41,217.12,2.3,Recife,PE
+906,43,211.4,2.4,Brasilia,DF
+907,11,241.19,2.3,Brasilia,DF
+908,62,217.65,2.4,Brasilia,DF
+909,42,206.02,2.4,Natal,RN
+910,1,263.41,2.0,Salvador,BH
+911,2,260.44,4.0,Aracaju,PE
+912,48,195.31,2.6,Campo Grande,MS
+913,9,204.03,2.8,Aracaju,DF
+914,57,208.3,2.7,Salvador,BH
+915,55,226.77,2.9,Natal,RN
+916,23,211.61,2.5,Aracaju,SE
+917,23,208.31,3.0,Rio de Janeiro,RJ
+918,11,186.33,2.1,Sao Paulo,SP
+919,55,196.83,2.2,Natal,RN
+920,28,199.37,2.1,Natal,RN
+921,8,179.06,1.6,Campo Grande,MS
+922,56,197.39,2.3,Sao Paulo,SP
+923,17,181.53,3.0,Sao Paulo,SP
+924,34,219.57,2.4,Brasilia,DF
+925,64,192.13,2.5,Sao Paulo,SP
+926,4,172.5,3.0,Brasilia,DF
+927,1,60.39,1.0,Campo Grande,MS
+928,26,213.23,2.8,Aracaju,RJ
+929,9,222.28,2.3,Recife,BH
+930,52,218.82,2.5,Aracaju,SE
+931,50,221.84,2.6,Recife,PE
+932,1,60.39,3.0,Campo Grande,MS
+933,58,204.57,2.5,Natal,PE
+934,7,240.08,2.1,Brasilia,DF
+935,44,199.92,2.7,Natal,RN
+936,52,204.74,2.5,Brasilia,DF
+937,26,218.74,2.3,Rio de Janeiro,RJ
+938,17,189.63,2.2,Rio de Janeiro,RJ
+939,19,231.34,2.1,Brasilia,DF
+940,65,198.54,2.6,Campo Grande,MS
+941,42,220.53,2.3,Natal,RN
+942,16,208.39,2.9,Recife,PE
+943,36,198.68,2.7,Sao Paulo,SP
+944,4,160.62,3.8,Aracaju,SE
+945,53,196.25,2.1,Brasilia,DF
+946,30,201.71,2.4,Brasilia,DF
+947,4,182.28,2.2,Sao Paulo,SP
+948,30,215.3,2.7,Salvador,BH
+949,47,182.4,2.5,Campo Grande,MS
+950,3,203.52,3.3,Aracaju,BH
+951,22,204.29,2.4,Aracaju,DF
+952,52,204.66,2.3,Natal,RN
+953,23,200.96,2.5,Sao Paulo,SP
+954,2,60.39,2.5,Campo Grande,MS
+955,50,214.32,2.6,Rio de Janeiro,BH
+956,37,205.5,2.4,Campo Grande,MS
+957,48,197.42,2.5,Brasilia,DF
+958,46,196.53,2.6,Campo Grande,MS
+959,18,200.33,1.9,Brasilia,DF
+960,37,195.2,3.0,Sao Paulo,SP
+961,22,196.17,3.0,Sao Paulo,SP
+962,63,217.7,2.5,Natal,RN
+963,13,180.35,2.9,Campo Grande,MS
+964,8,177.35,2.5,Brasilia,DF
+965,11,204.23,1.7,Brasilia,BH
+966,20,207.39,2.3,Rio de Janeiro,RJ
+967,43,211.1,2.3,Salvador,BH
+968,23,219.16,2.8,Natal,RN
+969,19,211.53,2.4,Recife,PE
+970,2,235.73,3.0,Aracaju,BH
+971,23,207.27,2.4,Salvador,BH
+972,22,193.27,2.5,Aracaju,DF
+973,42,212.44,2.5,Brasilia,DF
+974,33,210.76,2.6,Brasilia,DF
+975,54,192.11,2.7,Sao Paulo,SP
+976,8,196.78,2.5,Brasilia,DF
+977,65,214.1,2.3,Aracaju,SE
+978,17,199.48,2.5,Aracaju,RJ
+979,13,188.96,2.1,Campo Grande,MS
+980,27,197.58,2.3,Aracaju,MS
+981,41,210.53,2.1,Salvador,BH
+982,22,186.91,2.9,Campo Grande,MS
+984,29,209.45,2.6,Rio de Janeiro,RJ
+985,53,196.4,2.1,Campo Grande,MS
+986,2,263.41,2.0,Salvador,BH
+988,17,158.83,2.3,Campo Grande,MS
+989,40,216.03,2.6,Recife,PE
+990,24,237.84,2.6,Recife,PE
+991,12,202.31,2.2,Aracaju,MS
+992,63,199.93,2.2,Rio de Janeiro,RJ
+993,46,212.39,2.5,Sao Paulo,SP
+994,5,202.13,3.0,Aracaju,BH
+996,21,186.87,2.2,Brasilia,DF
+997,15,193.27,2.6,Salvador,BH
+998,55,208.26,2.6,Brasilia,DF
+999,1,242.88,3.0,Natal,RN
+1000,16,198.6,2.4,Aracaju,RJ
+1001,53,202.63,2.7,Rio de Janeiro,RJ
+1002,50,199.22,2.5,Sao Paulo,SP
+1003,59,209.34,2.7,Salvador,BH
+1004,61,208.93,2.7,Rio de Janeiro,RJ
+1005,55,204.64,2.8,Campo Grande,BH
+1006,7,161.24,2.3,Aracaju,SE
+1007,15,198.88,2.6,Rio de Janeiro,RJ
+1008,19,239.19,2.6,Brasilia,BH
+1009,45,200.56,2.2,Sao Paulo,SP
+1010,13,186.59,2.3,Rio de Janeiro,RJ
+1011,50,212.65,2.4,Aracaju,PE
+1012,43,183.83,2.1,Campo Grande,MS
+1013,27,227.59,2.5,Recife,PE
+1014,24,197.2,2.2,Aracaju,SE
+1015,41,207.06,2.5,Aracaju,SE
+1017,17,170.26,2.6,Campo Grande,MS
+1018,3,217.25,2.3,Natal,RN
+1019,48,187.44,2.2,Campo Grande,BH
+1020,10,222.02,2.4,Aracaju,BH
+1021,27,216.07,3.3,Aracaju,SE
+1022,54,212.33,2.7,Recife,PE
+1023,7,195.02,2.3,Recife,PE
+1024,53,196.1,2.6,Campo Grande,MS
+1026,51,200.28,2.9,Rio de Janeiro,BH
+1027,57,181.37,2.4,Campo Grande,MS
+1028,29,202.43,2.5,Sao Paulo,SP
+1029,62,204.21,2.5,Natal,BH
+1030,4,196.12,3.5,Sao Paulo,SP
+1031,22,190.4,2.8,Rio de Janeiro,RJ
+1032,36,206.7,2.4,Rio de Janeiro,RJ
+1033,42,202.24,2.6,Rio de Janeiro,RJ
+1034,16,154.37,2.0,Sao Paulo,SP
+1035,15,199.72,2.3,Aracaju,DF
+1036,31,189.16,2.5,Rio de Janeiro,RJ
+1037,39,218.39,2.5,Recife,PE
+1038,12,189.99,2.8,Sao Paulo,SP
+1039,44,208.26,2.5,Recife,PE
+1040,48,221.51,2.6,Recife,PE
+1041,60,197.4,2.6,Salvador,BH
+1042,18,209.2,2.9,Salvador,BH
+1043,34,212.87,2.4,Recife,PE
+1044,7,217.11,2.6,Aracaju,RN
+1045,15,209.18,2.5,Recife,PE
+1046,36,192.13,2.5,Campo Grande,MS
+1047,34,209.37,2.6,Recife,PE
+1048,42,209.14,2.6,Salvador,BH
+1049,48,198.69,2.5,Sao Paulo,SP
+1050,18,201.4,2.9,Salvador,BH
+1051,23,176.59,2.7,Campo Grande,MS
+1052,5,230.22,2.6,Rio de Janeiro,RJ
+1053,26,208.36,2.5,Natal,RJ
+1054,11,216.27,2.4,Rio de Janeiro,RJ
+1055,6,243.55,2.8,Salvador,BH
+1056,62,204.78,2.4,Brasilia,DF
+1057,14,235.42,2.6,Salvador,BH
+1058,35,205.83,2.0,Aracaju,SE
+1059,19,206.21,2.3,Aracaju,BH
+1060,37,200.99,2.4,Rio de Janeiro,RJ
+1061,40,198.58,2.3,Natal,RN
+1062,17,207.76,2.1,Natal,RN
+1063,25,194.0,2.7,Brasilia,DF
+1064,35,189.6,2.4,Sao Paulo,SP
+1065,32,194.87,2.5,Sao Paulo,SP
+1066,55,197.79,2.3,Rio de Janeiro,RJ
+1067,28,231.84,2.2,Natal,RN
+1068,2,245.25,1.0,Brasilia,DF
+1069,44,207.38,2.5,Aracaju,PE
+1070,50,226.92,2.5,Salvador,BH
+1071,40,203.32,2.2,Salvador,BH
+1072,19,195.85,2.1,Salvador,BH
+1073,26,204.9,2.5,Sao Paulo,SP
+1074,56,189.88,2.3,Campo Grande,MS
+1076,47,196.52,2.5,Rio de Janeiro,RJ
+1077,21,215.33,2.4,Brasilia,DF
+1078,50,207.29,2.2,Brasilia,DF
+1079,35,214.3,2.6,Brasilia,DF
+1080,59,219.34,2.6,Brasilia,DF
+1081,10,162.67,2.4,Rio de Janeiro,RJ
+1082,28,217.89,2.2,Natal,RN
+1083,62,215.95,2.6,Natal,RN
+1084,4,176.3,3.0,Rio de Janeiro,RJ
+1085,49,211.24,2.1,Brasilia,DF
+1086,52,214.25,2.6,Rio de Janeiro,RJ
+1087,10,207.81,2.3,Brasilia,DF
+1088,13,158.47,2.7,Campo Grande,MS
+1089,53,189.73,2.8,Campo Grande,MS
+1090,37,216.7,2.5,Recife,PE
+1091,60,204.16,2.6,Salvador,BH
+1092,19,219.0,2.9,Aracaju,PE
+1093,7,205.7,2.3,Brasilia,DF
+1094,3,215.13,3.3,Natal,BH
+1095,45,208.66,2.5,Brasilia,DF
+1096,23,192.82,2.7,Sao Paulo,SP
+1097,40,194.2,2.3,Sao Paulo,SP
+1098,14,197.6,2.7,Aracaju,SE
+1099,20,205.17,2.5,Aracaju,SE
+1100,29,194.91,2.6,Sao Paulo,SP
+1101,52,208.32,2.3,Aracaju,SE
+1102,15,191.77,3.1,Campo Grande,MS
+1103,48,200.4,2.2,Aracaju,SE
+1104,76,193.01,2.7,Campo Grande,MS
+1105,63,210.02,2.5,Aracaju,RN
+1106,16,211.08,2.5,Rio de Janeiro,RJ
+1107,10,199.95,3.2,Brasilia,DF
+1108,48,198.87,2.3,Rio de Janeiro,BH
+1109,13,224.03,2.8,Aracaju,SE
+1110,11,193.68,2.3,Sao Paulo,SP
+1111,29,229.83,2.7,Salvador,BH
+1112,45,214.26,2.4,Salvador,BH
+1113,33,197.67,2.2,Rio de Janeiro,RJ
+1114,12,157.7,1.8,Campo Grande,MS
+1115,7,177.11,3.3,Sao Paulo,SP
+1116,41,202.19,2.3,Campo Grande,MS
+1117,1,208.04,4.0,Aracaju,SE
+1118,23,201.86,2.4,Natal,BH
+1119,25,193.47,2.5,Sao Paulo,SP
+1120,36,216.52,2.3,Salvador,BH
+1121,33,211.17,2.8,Aracaju,SE
+1122,20,197.32,2.6,Brasilia,BH
+1123,31,192.26,2.3,Campo Grande,MS
+1124,6,153.9,3.5,Campo Grande,MS
+1125,18,230.94,2.4,Natal,RN
+1126,43,213.71,2.5,Salvador,BH
+1127,61,197.33,2.5,Brasilia,DF
+1128,12,216.54,2.5,Natal,BH
+1129,15,218.5,2.7,Natal,PE
+1130,13,219.82,2.2,Aracaju,BH
+1131,34,200.55,2.2,Salvador,BH
+1132,30,229.16,2.5,Salvador,BH
+1133,7,212.78,2.6,Recife,PE
+1134,1,139.1,2.0,Sao Paulo,SP
+1135,54,200.73,2.9,Recife,PE
+1136,10,184.37,2.5,Campo Grande,MS
+1137,12,180.24,2.9,Natal,RN
+1138,69,198.09,2.3,Aracaju,SE
+1139,39,216.65,2.7,Natal,RN
+1140,47,199.47,2.6,Natal,RN
+1141,47,206.64,2.6,Recife,PE
+1142,11,182.84,2.5,Rio de Janeiro,RJ
+1143,12,172.47,3.2,Campo Grande,MS
+1144,7,227.78,2.4,Aracaju,PE
+1145,63,217.36,2.5,Brasilia,DF
+1146,38,197.14,2.8,Sao Paulo,SP
+1147,45,192.79,2.4,Aracaju,MS
+1148,56,217.55,2.4,Brasilia,BH
+1149,53,206.1,2.5,Aracaju,SE
+1150,63,207.83,2.4,Natal,RN
+1151,20,190.8,2.2,Natal,RJ
+1152,23,204.01,2.7,Recife,BH
+1153,46,189.84,2.4,Brasilia,DF
+1154,23,193.06,2.9,Brasilia,DF
+1155,62,204.98,2.5,Brasilia,DF
+1156,57,201.06,2.4,Salvador,BH
+1157,24,225.84,2.5,Salvador,BH
+1158,37,206.49,2.3,Natal,RN
+1159,41,201.53,2.5,Campo Grande,BH
+1160,19,216.64,2.5,Rio de Janeiro,RJ
+1161,19,188.54,2.6,Aracaju,SE
+1162,37,218.43,2.9,Aracaju,BH
+1163,25,202.85,2.3,Rio de Janeiro,RJ
+1164,42,195.31,2.4,Salvador,BH
+1165,54,202.8,2.3,Aracaju,RN
+1166,36,210.86,2.4,Salvador,BH
+1167,30,211.58,2.2,Rio de Janeiro,RJ
+1168,4,216.38,2.5,Brasilia,DF
+1169,12,167.63,2.2,Aracaju,RJ
+1170,61,213.94,2.5,Salvador,BH
+1172,14,234.54,2.4,Natal,RN
+1173,40,196.0,2.6,Brasilia,DF
+1174,22,199.77,2.0,Aracaju,SE
+1175,34,206.48,2.6,Natal,RN
+1176,49,199.87,2.2,Aracaju,SE
+1177,18,221.38,2.3,Aracaju,PE
+1178,30,196.31,2.8,Natal,RN
+1179,20,219.1,2.3,Aracaju,SE
+1180,18,211.18,2.8,Recife,PE
+1181,8,214.28,2.6,Natal,RN
+1183,50,190.56,2.3,Salvador,BH
+1184,24,201.17,2.3,Rio de Janeiro,BH
+1185,51,210.35,2.6,Brasilia,DF
+1186,32,200.64,2.8,Natal,PE
+1187,17,196.24,3.3,Sao Paulo,SP
+1188,43,204.23,2.6,Brasilia,DF
+1189,37,210.73,2.5,Brasilia,DF
+1190,13,208.94,2.8,Sao Paulo,SP
+1191,42,220.26,2.6,Natal,RN
+1192,3,86.63,3.3,Campo Grande,MS
+1193,43,198.55,2.6,Sao Paulo,SP
+1194,24,228.54,2.2,Brasilia,DF
+1195,28,236.57,2.6,Recife,PE
+1196,51,194.87,2.6,Campo Grande,BH
+1197,64,213.75,2.7,Brasilia,DF
+1198,15,183.53,2.5,Campo Grande,BH
+1199,10,209.12,2.9,Aracaju,RN
+1200,4,196.12,3.0,Sao Paulo,SP
+1201,40,211.56,2.5,Salvador,BH
+1202,29,200.06,2.2,Brasilia,DF
+1203,52,197.89,2.4,Salvador,BH
+1204,40,206.53,2.5,Brasilia,DF
+1205,54,203.29,2.3,Salvador,BH
+1206,21,218.54,2.4,Brasilia,BH
+1207,6,148.25,3.0,Campo Grande,MS
+1208,28,231.76,2.8,Recife,PE
+1209,8,225.0,2.5,Brasilia,DF
+1210,51,194.59,2.2,Rio de Janeiro,RJ
+1211,7,208.44,2.3,Rio de Janeiro,RJ
+1212,51,206.7,2.9,Rio de Janeiro,BH
+1213,33,179.27,2.5,Sao Paulo,SP
+1214,55,209.49,2.5,Brasilia,DF
+1215,15,226.01,2.7,Recife,PE
+1216,19,184.94,2.3,Campo Grande,MS
+1217,23,190.47,2.6,Campo Grande,MS
+1218,52,210.51,2.2,Brasilia,DF
+1219,40,194.04,2.4,Salvador,BH
+1220,54,203.53,2.4,Rio de Janeiro,RJ
+1221,34,185.43,2.2,Campo Grande,MS
+1222,60,230.62,2.6,Natal,PE
+1223,46,210.76,2.3,Natal,RN
+1224,47,207.55,2.3,Brasilia,DF
+1225,22,214.59,2.4,Aracaju,SE
+1226,59,208.88,2.6,Salvador,BH
+1227,53,203.02,2.7,Brasilia,DF
+1228,48,195.57,2.6,Aracaju,SE
+1229,12,179.63,2.5,Campo Grande,MS
+1230,33,213.9,2.3,Rio de Janeiro,RJ
+1231,51,203.76,2.6,Brasilia,BH
+1232,16,190.72,2.8,Aracaju,SE
+1233,47,215.86,2.7,Natal,RN
+1234,25,196.12,2.4,Aracaju,DF
+1235,38,196.39,2.4,Aracaju,MS
+1236,37,202.04,2.5,Salvador,BH
+1237,13,205.21,2.8,Aracaju,RN
+1238,10,185.49,2.4,Natal,RN
+1239,37,232.02,2.6,Natal,BH
+1240,32,182.61,2.8,Aracaju,SE
+1241,7,211.72,2.6,Salvador,BH
+1242,15,201.48,2.4,Natal,RN
+1243,25,209.26,2.2,Brasilia,DF
+1245,14,219.74,3.0,Natal,RN
+1246,33,212.88,2.6,Aracaju,PE
+1247,5,235.31,3.0,Recife,PE
+1248,49,217.61,2.6,Brasilia,BH
+1249,55,215.11,2.5,Brasilia,DF
+1250,24,205.3,2.4,Salvador,BH
+1251,6,229.26,2.2,Brasilia,DF
+1252,68,203.96,2.5,Brasilia,DF
+1253,61,208.99,2.7,Rio de Janeiro,BH
+1254,29,191.83,2.2,Sao Paulo,SP
+1255,42,211.2,2.5,Salvador,BH
+1256,50,196.8,2.6,Rio de Janeiro,RJ
+1257,54,204.98,2.9,Natal,RJ
+1258,27,203.35,2.5,Brasilia,DF
+1259,50,205.98,2.6,Sao Paulo,SP
+1260,56,205.95,2.2,Recife,PE
+1261,42,193.68,2.1,Campo Grande,MS
+1262,21,215.06,2.3,Natal,RN
+1263,38,207.11,2.3,Aracaju,DF
+1264,25,205.99,2.1,Brasilia,DF
+1265,36,205.25,2.1,Campo Grande,MS
+1266,14,197.46,2.6,Brasilia,DF
+1267,10,221.65,2.3,Recife,BH
+1268,51,216.92,2.7,Aracaju,SE
+1269,60,211.43,2.7,Rio de Janeiro,RJ
+1270,46,210.75,2.7,Natal,RN
+1271,40,184.43,2.4,Campo Grande,MS
+1272,55,201.18,2.3,Aracaju,SE
+1273,49,207.3,2.6,Recife,PE
+1274,2,173.57,2.0,Aracaju,SE
+1275,1,60.39,2.0,Campo Grande,MS
+1276,7,192.85,2.0,Sao Paulo,SP
+1277,26,212.68,2.6,Salvador,BH
+1278,50,211.88,2.7,Brasilia,DF
+1279,41,211.65,2.7,Brasilia,DF
+1280,52,204.78,2.6,Aracaju,SE
+1281,46,199.14,2.7,Campo Grande,MS
+1282,45,202.94,2.5,Natal,RN
+1283,41,203.12,2.5,Brasilia,DF
+1284,12,244.83,2.7,Recife,BH
+1285,3,198.46,2.3,Rio de Janeiro,RJ
+1286,64,229.26,2.5,Recife,PE
+1287,14,192.69,2.1,Sao Paulo,SP
+1288,63,201.75,2.3,Sao Paulo,SP
+1289,27,207.09,2.3,Sao Paulo,SP
+1290,55,205.93,2.5,Brasilia,DF
+1291,9,165.37,2.6,Rio de Janeiro,RJ
+1292,1,60.39,4.0,Campo Grande,MS
+1293,49,214.27,2.6,Aracaju,SE
+1294,5,163.64,2.2,Rio de Janeiro,RJ
+1295,52,208.99,2.6,Natal,BH
+1296,16,195.09,2.6,Aracaju,SE
+1297,18,193.59,2.4,Campo Grande,MS
+1298,33,181.28,2.9,Rio de Janeiro,RJ
+1299,34,195.61,2.6,Rio de Janeiro,RJ
+1300,19,178.14,2.8,Sao Paulo,SP
+1301,3,232.85,2.7,Aracaju,DF
+1302,55,215.3,2.7,Recife,PE
+1303,10,217.69,2.4,Aracaju,BH
+1304,16,213.6,2.6,Brasilia,BH
+1305,63,220.25,2.3,Salvador,BH
+1306,45,223.87,2.9,Recife,PE
+1307,25,190.74,2.2,Salvador,BH
+1308,8,211.08,2.2,Aracaju,RN
+1309,14,226.74,2.1,Brasilia,DF
+1310,35,198.88,2.4,Rio de Janeiro,RJ
+1311,50,209.59,2.8,Rio de Janeiro,RJ
+1312,32,210.9,2.4,Brasilia,BH
+1313,6,198.84,2.0,Brasilia,DF
+1314,44,217.48,2.7,Salvador,BH
+1315,44,185.5,2.1,Campo Grande,BH
+1316,44,182.54,2.4,Campo Grande,MS
+1317,35,199.17,2.4,Rio de Janeiro,RJ
+1318,12,216.51,2.8,Salvador,BH
+1319,43,191.04,2.4,Aracaju,SE
+1320,59,210.61,2.5,Brasilia,DF
+1321,31,223.47,2.7,Salvador,BH
+1322,41,192.22,2.3,Aracaju,SE
+1323,74,208.05,2.7,Brasilia,DF
+1324,46,191.27,2.7,Campo Grande,MS
+1325,35,198.66,2.3,Natal,RN
+1326,9,190.72,2.2,Campo Grande,BH
+1327,19,206.01,2.6,Recife,BH
+1328,17,180.82,2.4,Rio de Janeiro,RJ
+1330,42,226.61,2.6,Brasilia,DF
+1331,33,200.13,2.5,Brasilia,DF
+1332,48,198.91,2.9,Aracaju,SE
+1333,30,206.77,2.7,Brasilia,BH
+1334,4,236.79,2.5,Brasilia,DF
+1335,60,197.84,2.4,Rio de Janeiro,RJ
+1336,1,247.62,2.0,Brasilia,DF
+1337,11,236.93,2.8,Recife,PE
+1338,1,247.62,4.0,Brasilia,DF
+1339,13,204.82,2.2,Aracaju,BH

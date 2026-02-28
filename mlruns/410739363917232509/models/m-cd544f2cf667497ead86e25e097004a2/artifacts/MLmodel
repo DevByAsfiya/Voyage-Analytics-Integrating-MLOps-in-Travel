@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/user/Documents/Voyage-Analytics-Integrating-MLOps-in-Travel/mlruns/410739363917232509/models/m-cd544f2cf667497ead86e25e097004a2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-cd544f2cf667497ead86e25e097004a2
+model_size_bytes: 3086089
+model_uuid: m-cd544f2cf667497ead86e25e097004a2
+prompts: null
+run_id: 61feff26696a42b18322e8ccf1663c29
+utc_time_created: '2026-02-26 21:15:42.794839'

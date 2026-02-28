@@ -1,0 +1,1 @@
+[{"n_hotels":9,"n_features":17,"cat_cols":["city","most_common_season","price_bucket"],"num_cols":["avg_price","avg_days","bookings"],"price_thresholds":{"low":150,"medium":300}}]

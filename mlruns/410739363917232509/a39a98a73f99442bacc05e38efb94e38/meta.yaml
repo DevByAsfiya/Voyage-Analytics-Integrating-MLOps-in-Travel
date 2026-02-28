@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Documents/Voyage-Analytics-Integrating-MLOps-in-Travel/mlruns/410739363917232509/a39a98a73f99442bacc05e38efb94e38/artifacts
+end_time: 1772143101429
+entry_point_name: ''
+experiment_id: '410739363917232509'
+lifecycle_stage: active
+run_id: a39a98a73f99442bacc05e38efb94e38
+run_name: XGB_n50_lr0.1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772143083451
+status: 4
+tags: []
+user_id: user

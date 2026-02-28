@@ -1,10 +1,10 @@
-hotel_id,hotel_name,city,state,avg_price,min_price,max_price,avg_days,popularity,most_common_season
-Hotel A | Florianopolis,Hotel A,Florianopolis,SC,313.02,313.02,313.02,2.483183183183183,3330,spring
-Hotel AF | Sao Paulo,Hotel AF,Sao Paulo,SP,139.1,139.1,139.1,2.511599005799503,4828,spring
-Hotel AU | Recife,Hotel AU,Recife,PE,312.83,312.83,312.83,2.5209312737855383,4467,winter
-Hotel BD | Natal,Hotel BD,Natal,RN,242.88,242.88,242.88,2.499068130047629,4829,winter
-Hotel BP | Brasilia,Hotel BP,Brasilia,DF,247.62,247.62,247.62,2.4863646608068515,4437,spring
-Hotel BW | Campo Grande,Hotel BW,Campo Grande,MS,60.39,60.39,60.39,2.4954996538195244,4333,winter
-Hotel CB | Rio de Janeiro,Hotel CB,Rio de Janeiro,RJ,165.99,165.99,165.99,2.485981308411215,5029,winter
-Hotel K | Salvador,Hotel K,Salvador,BH,263.41,263.41,263.41,2.516489988221437,5094,spring
-Hotel Z | Aracaju,Hotel Z,Aracaju,SE,208.04,208.04,208.04,2.4915576694411414,4205,winter
+hotel_id,hotel_name,city,state,avg_price,min_price,max_price,avg_days,bookings,most_common_season,price_bucket
+Hotel A | Florianopolis,Hotel A,Florianopolis,SC,313.02,313.02,313.02,2.483183183183183,3330,spring,high
+Hotel AF | Sao Paulo,Hotel AF,Sao Paulo,SP,139.1,139.1,139.1,2.511599005799503,4828,spring,low
+Hotel AU | Recife,Hotel AU,Recife,PE,312.83,312.83,312.83,2.5209312737855383,4467,winter,high
+Hotel BD | Natal,Hotel BD,Natal,RN,242.88,242.88,242.88,2.499068130047629,4829,winter,medium
+Hotel BP | Brasilia,Hotel BP,Brasilia,DF,247.62,247.62,247.62,2.4863646608068515,4437,spring,medium
+Hotel BW | Campo Grande,Hotel BW,Campo Grande,MS,60.39,60.39,60.39,2.4954996538195244,4333,winter,low
+Hotel CB | Rio de Janeiro,Hotel CB,Rio de Janeiro,RJ,165.99,165.99,165.99,2.485981308411215,5029,winter,medium
+Hotel K | Salvador,Hotel K,Salvador,BH,263.41,263.41,263.41,2.516489988221437,5094,spring,medium
+Hotel Z | Aracaju,Hotel Z,Aracaju,SE,208.04,208.04,208.04,2.4915576694411414,4205,winter,medium

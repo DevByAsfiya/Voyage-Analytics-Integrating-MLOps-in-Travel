@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/user/Documents/Voyage-Analytics-Integrating-MLOps-in-Travel/mlruns/410739363917232509
+creation_time: 1772140050801
+experiment_id: '410739363917232509'
+last_update_time: 1772140050801
+lifecycle_stage: active
+name: Flight_Price_Prediction_MultiModel

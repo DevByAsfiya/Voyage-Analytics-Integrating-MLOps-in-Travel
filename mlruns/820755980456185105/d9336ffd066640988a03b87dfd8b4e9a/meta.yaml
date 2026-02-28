@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Documents/Voyage-Analytics-Integrating-MLOps-in-Travel/mlruns/820755980456185105/d9336ffd066640988a03b87dfd8b4e9a/artifacts
+end_time: 1771949300498
+entry_point_name: ''
+experiment_id: '820755980456185105'
+lifecycle_stage: active
+run_id: d9336ffd066640988a03b87dfd8b4e9a
+run_name: flight_price_full_pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771948800737
+status: 3
+tags: []
+user_id: user

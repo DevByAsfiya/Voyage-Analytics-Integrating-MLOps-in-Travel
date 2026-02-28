@@ -11,4 +11,5 @@ Flask
 dill
 streamlit
 apache-airflow
+mlflow
 # -e .

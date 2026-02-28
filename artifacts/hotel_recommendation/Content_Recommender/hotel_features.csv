@@ -1,0 +1,10 @@
+hotel_id,hotel_name,city,state,avg_price,min_price,max_price,avg_days,bookings,most_common_season,price_bucket,score
+Hotel A | Florianopolis,Hotel A,Florianopolis,SC,313.02,313.02,313.02,2.483183183183183,3330,spring,high,0.08511502291035997
+Hotel AF | Sao Paulo,Hotel AF,Sao Paulo,SP,139.1,139.1,139.1,2.511599005799503,4828,spring,low,-0.10099379442453195
+Hotel AU | Recife,Hotel AU,Recife,PE,312.83,312.83,312.83,2.5209312737855383,4467,winter,high,0.413398711991969
+Hotel BD | Natal,Hotel BD,Natal,RN,242.88,242.88,242.88,2.499068130047629,4829,winter,medium,0.4114535180368263
+Hotel BP | Brasilia,Hotel BP,Brasilia,DF,247.62,247.62,247.62,2.4863646608068515,4437,spring,medium,0.3658261750035325
+Hotel BW | Campo Grande,Hotel BW,Campo Grande,MS,60.39,60.39,60.39,2.4954996538195244,4333,winter,low,-0.21711313587653255
+Hotel CB | Rio de Janeiro,Hotel CB,Rio de Janeiro,RJ,165.99,165.99,165.99,2.485981308411215,5029,winter,medium,0.18905665755854473
+Hotel K | Salvador,Hotel K,Salvador,BH,263.41,263.41,263.41,2.516489988221437,5094,spring,medium,0.3609456830205022
+Hotel Z | Aracaju,Hotel Z,Aracaju,SE,208.04,208.04,208.04,2.491557669441141,4205,winter,medium,0.3209457988827371
