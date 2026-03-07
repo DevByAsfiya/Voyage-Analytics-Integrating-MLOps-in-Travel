@@ -8,17 +8,6 @@
 #       - "8080:8080"              # Exposes Airflow UI
 #     command: airflow standalone  # Magic command - runs EVERYTHING in 1 container
 
-# version: '3.8'
-# services:
-#   airflow:
-#     image: apache/airflow:2.10.2-python3.11  # ✅ Official, exists
-#     command: standalone
-#     ports:
-#       - "8081:8080"
-#     volumes:
-#       - ./dags:/opt/airflow/dags
-#       - ./logs:/opt/airflow/logs
-
 # version: '3'
 # services:
 #   airflow:
@@ -52,11 +41,12 @@ services:
     environment:
       - AIRFLOW__WEBSERVER__WEB_SERVER_HOST=0.0.0.0
       - AIRFLOW__WEBSERVER__WEB_SERVER_PORT=8080
+
       # OPTIONAL: Use LocalExecutor to run tasks in parallel
       # - AIRFLOW__CORE__EXECUTOR=LocalExecutor
       
     volumes:
-      - ./dags:/opt/airflow/dags
+      - ../dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - ../src:/opt/airflow/src            # Correctly maps source code
       - ../artifacts:/opt/airflow/artifacts # Correctly maps output folder

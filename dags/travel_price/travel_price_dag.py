@@ -8,11 +8,6 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 # KEEP THIS AT THE TOP
 # sys.path.append('/opt/airflow')
 
-# --- REMOVE HEAVY IMPORTS FROM HERE ---
-# from src.flight_price.data_ingestion import DataIngestion  <-- DELETE THIS
-# from src.flight_price.data_transformation import DataTransformation <-- DELETE THIS
-# from src.flight_price.model_trainer import ModelTrainer <-- DELETE THIS
-
 def run_ingestion(**kwargs):
     # --- MOVE IMPORT HERE ---
     from src.flight_price.data_ingestion import DataIngestion

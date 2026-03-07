@@ -5,8 +5,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from src.flight_pipeline.flight_predict_pipeline import CustomData,PredictPipeline
 
-application=Flask(__name__)
-
+application = Flask(__name__, template_folder="../../templates")
 app=application
 
 ## Route for a home page
