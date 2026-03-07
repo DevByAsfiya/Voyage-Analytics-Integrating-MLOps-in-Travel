@@ -1,4 +1,4 @@
-<img width="1903" height="992" alt="Screenshot 2026-03-07 205325" src="https://github.com/user-attachments/assets/f8d0a5a3-36d8-4fee-afd8-b2e028a5b5ed" /># Voyage-Analytics-Integrating-MLOps-in-Travel
+# Voyage-Analytics-Integrating-MLOps-in-Travel
 End-to-end MLOps project for travel industry data including regression, classification, and recommendation models. Features automated data processing, model training, REST API serving with Flask, interactive Streamlit app, Docker and Kubernetes deployment, Airflow scheduling, and MLflow experiment tracking for scalable production-ready workflows.
 
 # End-to-End MLOps Projects Suite
@@ -238,6 +238,76 @@ kubectl get pods  # Now shows 3 pods!
   - model hyperparameters and training metrics,
   - serialized models (`model.pkl`) and preprocessing artifacts.
 - The MLflow UI can be launched to **compare runs and promote the best model** to production.
+```
+```markdown
+## Hotel Recommendation System
+
+<img width="1903" height="992" alt="Screenshot 2026-03-07 205325" src="https://github.com/user-attachments/assets/b27cda86-4c57-45f1-8413-2b139e1d18f8" />
+
+### Model Overview
+- **Algorithm**: Collaborative filtering using or content-based similarity.
+- **Dataset**: `data/hotels.csv` with user ratings, hotel features, location data.
+- **Pipeline** (`src/hotel_recommendation/`):
+  - `data_ingestion.py`: Load and clean hotel/user data
+  - `data_transformation.py`: Create user-item matrix, handle sparsity
+  - `model_trainer.py`: Train recommender, generate top-N recommendations
+- **Artifacts**: Trained model and similarity matrix saved in `artifacts/hotel_recommendation/`
+
+### Streamlit Deployment
+```bash
+cd src/hotel_recommendation
+streamlit run app.py
+# Access: http://localhost:8501
+```
+
+**Features**:
+- User ID input → personalized hotel recommendations
+- Filter by location, price range, star rating
+- Interactive similarity score visualization
+
+---
+
+## Gender Classification Model
+
+<img width="1909" height="846" alt="Gender_Claddification" src="https://github.com/user-attachments/assets/ef4a1516-6042-4603-ac6b-03625e32fe86" />
+
+### Model Overview
+- **Algorithm**: **Logistic Regression** or **Random Forest** classifier for binary/multi-class gender prediction.
+- **Dataset**: `data/users.csv` with demographic features (name, age, location, etc.).
+- **Pipeline** (`src/gender_classification/`):
+  - `data_ingestion.py`: Load demographic data
+  - `data_transformation.py`: Feature engineering (name embeddings, categorical encoding)
+  - `model_trainer.py`: Train classifier, evaluate accuracy/F1-score
+- **Metrics**: 85-92% accuracy (depending on feature engineering).
+- **Artifacts**: `model.pkl`, `preprocessor.pkl` in `artifacts/gender_classification/`
+
+### Streamlit Deployment
+```bash
+cd src/gender_classification
+streamlit run app.py
+# Access: http://localhost:8502
+```
+
+**Features**:
+- Real-time gender prediction from text/demographic inputs
+- Confidence scores and feature importance visualization
+- Batch prediction for multiple users
+- Model performance metrics dashboard
+
+---
+
+## Quick Launch All Streamlit Apps
+
+```bash
+# Terminal 1: Hotel Recs
+cd src/hotel_recommendation && streamlit run app.py --server.port 8501
+
+# Terminal 2: Gender Classifier  
+cd src/gender_classification && streamlit run app.py --server.port 8502
+
+# URLs:
+# Hotels: http://localhost:8501
+# Gender: http://localhost:8502
 ```
 
 
