@@ -1,4 +1,4 @@
-# Voyage-Analytics-Integrating-MLOps-in-Travel
+<img width="1903" height="992" alt="Screenshot 2026-03-07 205325" src="https://github.com/user-attachments/assets/f8d0a5a3-36d8-4fee-afd8-b2e028a5b5ed" /># Voyage-Analytics-Integrating-MLOps-in-Travel
 End-to-end MLOps project for travel industry data including regression, classification, and recommendation models. Features automated data processing, model training, REST API serving with Flask, interactive Streamlit app, Docker and Kubernetes deployment, Airflow scheduling, and MLflow experiment tracking for scalable production-ready workflows.
 
 # End-to-End MLOps Projects Suite
@@ -123,6 +123,13 @@ Monitoring: MLFlow
 Python 3.9+ | Docker 20+ | Minikube | Git | kubectl
 ```
 
+### Flight Price Prediction Development
+
+<img width="462" height="431" alt="Screenshot 2026-03-07 215331" src="https://github.com/user-attachments/assets/23567293-60f7-46a4-b9d6-d353ceb11490" />
+
+
+<img width="546" height="773" alt="Screenshot 2026-03-07 215421" src="https://github.com/user-attachments/assets/b28e0869-e4af-44e6-9824-96a9c78a74f9" />
+
 ### 1. Clone & Setup
 
 **Clone & Setup (Exact Repo):**
@@ -202,11 +209,37 @@ docker run -d -p 5000:5000 flight-price-prediction:1.0
 kubectl apply -f src/flight_price/Deployment.yml
 kubectl get pods  # Now shows 3 pods!
 ```
+```markdown
+## Airflow Scheduling (Orchestration)
+
+- Apache Airflow is used to **orchestrate and schedule** the end-to-end ML pipelines.[web:11][web:12]
+- DAGs:
+  - `flight_price_dag.py`: daily retrain + evaluation + (optional) deployment of the Flight Price model.
+- Airflow runs via the `airflow-docker/` `docker-compose.yml` stack and can be monitored from the Airflow web UI.[web:14][web:18]
+
+---
+
+## CI/CD Pipeline (Jenkins)
+
+- Jenkins provides a **CI/CD pipeline** that automates build, test, and deployment steps whenever changes are pushed to the repo.
+- The pipeline is defined in a `Jenkinsfile` (or Jenkins job) and typically includes:
+  - Build & unit tests.
+  - Container image build and push.
+  - Kubernetes deployment update for the Flight Price API.
+- This ensures **consistent, repeatable deployments** to the Kubernetes cluster.
+
+---
+
+## MLflow Tracking
+
+- MLflow is used to **track experiments, parameters, metrics, and models** across all three projects.
+- Runs and artifacts are stored under the `mlruns/` directory.
+- For the Flight Price model, `flight_price_mlflow_runner.py` logs:
+  - model hyperparameters and training metrics,
+  - serialized models (`model.pkl`) and preprocessing artifacts.
+- The MLflow UI can be launched to **compare runs and promote the best model** to production.
+```
 
 
-
-***
-
-**🚀 Ready for production!** Three ML models with complete MLOps infrastructure in one repo.
 
 
