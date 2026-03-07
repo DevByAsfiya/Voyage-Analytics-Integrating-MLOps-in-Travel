@@ -3,6 +3,7 @@ import pandas as pd
 import joblib
 import os
 import numpy as np
+import pathlib
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Configure page
@@ -10,23 +11,47 @@ st.set_page_config(page_title="Hotel Recommender", layout="wide", page_icon="�
 st.title("🏨 Content-Based Hotel Recommender")
 st.markdown("---")
 
+# @st.cache_resource
+# def load_content_recommender():
+#     """Load content-based recommender artifacts"""
+#     base_path = "artifacts/hotel_recommendation/Content_Recommender"
+    
+#     # Load COMPLETE recommender (your optimized pipeline)
+#     recommender_data = joblib.load(os.path.join(base_path, "content_recommender.pkl"))
+    
+#     # Extract components
+#     preprocessor = recommender_data['preprocessor']
+#     hotel_matrix = recommender_data['hotel_matrix']
+#     hotel_features = recommender_data['hotel_features']
+    
+#     # Test functions work
+#     assert callable(recommender_data['recommend_new_user'])
+    
+#     st.success(f"✅ Content recommender loaded! {len(hotel_features):,} hotels")
+#     return recommender_data, hotel_features
+
 @st.cache_resource
 def load_content_recommender():
-    """Load content-based recommender artifacts"""
-    base_path = "artifacts/hotel_recommendation/Content_Recommender"
+    """Load from project_root/artifacts/hotel_recommendation/Content_Recommender"""
+    # Fix: Navigate from src/hotel_recommendation/app.py → project_root/artifacts/
+    BASE_DIR = pathlib.Path(__file__).resolve().parent.parent.parent  # -> root
+    ARTIFACTS_PATH = BASE_DIR / "artifacts" / "hotel_recommendation" / "Content_Recommender"
     
-    # Load COMPLETE recommender (your optimized pipeline)
-    recommender_data = joblib.load(os.path.join(base_path, "content_recommender.pkl"))
+    # Debug paths
+    pkl_path = ARTIFACTS_PATH / "content_recommender.pkl"
+    st.info(f"📁 Loading: {pkl_path.resolve()}")
+    st.write(f"✅ Exists: {pkl_path.exists()}")
     
-    # Extract components
+    # Load
+    recommender_data = joblib.load(pkl_path)
+    
+    # Extract
     preprocessor = recommender_data['preprocessor']
     hotel_matrix = recommender_data['hotel_matrix']
     hotel_features = recommender_data['hotel_features']
     
-    # Test functions work
     assert callable(recommender_data['recommend_new_user'])
-    
-    st.success(f"✅ Content recommender loaded! {len(hotel_features):,} hotels")
+    st.success(f"✅ Loaded! {len(hotel_features):,} hotels")
     return recommender_data, hotel_features
 
 # Load everything ONCE
