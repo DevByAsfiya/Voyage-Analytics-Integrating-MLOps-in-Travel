@@ -239,11 +239,12 @@ kubectl get pods  # Now shows 3 pods!
   - serialized models (`model.pkl`) and preprocessing artifacts.
 - The MLflow UI can be launched to **compare runs and promote the best model** to production.
 ```
-```markdown
+
 ## Hotel Recommendation System
 
 <img width="1903" height="992" alt="Screenshot 2026-03-07 205325" src="https://github.com/user-attachments/assets/b27cda86-4c57-45f1-8413-2b139e1d18f8" />
 
+```
 ### Model Overview
 - **Algorithm**: Collaborative filtering using or content-based similarity.
 - **Dataset**: `data/hotels.csv` with user ratings, hotel features, location data.
