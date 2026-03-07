@@ -40,7 +40,6 @@ Complete MLOps stack: model development → REST API → Docker → Kubernetes �
 ```markdown
 ## Project Structure
 
-```
 Voyage-Analytics-Integrating-MLOps-in-Travel/
 ├── data/                          # 📊 Raw datasets
 │   ├── flights.csv               # ✈️ Flight prices
